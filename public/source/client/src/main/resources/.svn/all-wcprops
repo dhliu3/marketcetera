@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/15975/root/trunk/source/client/src/main/resources
+END
+client_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/15975/root/trunk/source/client/src/main/resources/client_messages.properties
+END
+client_config_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10492/root/trunk/source/client/src/main/resources/client_config_messages.properties
+END
+client_jms_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10408/root/trunk/source/client/src/main/resources/client_jms_messages.properties
+END
+client_instruments_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10951/root/trunk/source/client/src/main/resources/client_instruments_messages.properties
+END
+client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10492/root/trunk/source/client/src/main/resources/client.xml
+END

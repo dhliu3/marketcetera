@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/workbench/tests
+END
+StrategyEngineWorkbenchUISuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/!svn/ver/10787/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/workbench/tests/StrategyEngineWorkbenchUISuite.java
+END
+StrategyEnginesViewContextMenuTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/workbench/tests/StrategyEnginesViewContextMenuTestBase.java
+END
+StrategyEnginesViewFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/workbench/tests/StrategyEnginesViewFixture.java
+END

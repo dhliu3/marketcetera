@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench
+END
+DeleteHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/DeleteHandlerTest.java
+END
+StrategyAgentConnectionPropertyPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/StrategyAgentConnectionPropertyPageTest.java
+END
+ConnectHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/ConnectHandlerTest.java
+END
+DisconnectHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/DisconnectHandlerTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/MessagesTest.java
+END
+NewStrategyAgentHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/NewStrategyAgentHandlerTest.java
+END
+StrategyAgentHandlerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/StrategyAgentHandlerTestBase.java
+END

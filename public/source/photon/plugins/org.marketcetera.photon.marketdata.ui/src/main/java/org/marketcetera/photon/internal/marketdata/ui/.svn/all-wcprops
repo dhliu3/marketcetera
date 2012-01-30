@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/16037/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui
+END
+FeedPreferencePageInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/!svn/ver/10577/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui/FeedPreferencePageInitializer.java
+END
+MarketDepthView.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/16037/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui/MarketDepthView.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/10499/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui/Messages.java
+END
+ShowMarketDepthHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10534/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui/ShowMarketDepthHandler.java
+END
+MarketDataPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10577/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui/MarketDataPreferencePage.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.ui/src/main/java/org/marketcetera/photon/internal/marketdata/ui/Activator.java
+END

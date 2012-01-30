@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench
+END
+DeleteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/DeleteHandler.java
+END
+StrategyAgentConnectionPropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/StrategyAgentConnectionPropertyPage.java
+END
+ConnectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/ConnectHandler.java
+END
+DisconnectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/DisconnectHandler.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/Messages.java
+END
+NewStrategyAgentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/sa/ui/workbench/NewStrategyAgentHandler.java
+END

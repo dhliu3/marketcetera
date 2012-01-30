@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.product/src/main/java/org/marketcetera/photon/internal/product
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.product/src/main/java/org/marketcetera/photon/internal/product/Application.java
+END
+LogoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.product/src/main/java/org/marketcetera/photon/internal/product/LogoutHandler.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10492/root/trunk/source/photon/plugins/org.marketcetera.photon.product/src/main/java/org/marketcetera/photon/internal/product/Messages.java
+END
+PhotonPositionLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/10492/root/trunk/source/photon/plugins/org.marketcetera.photon.product/src/main/java/org/marketcetera/photon/internal/product/PhotonPositionLabelProvider.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.product/src/main/java/org/marketcetera/photon/internal/product/Activator.java
+END

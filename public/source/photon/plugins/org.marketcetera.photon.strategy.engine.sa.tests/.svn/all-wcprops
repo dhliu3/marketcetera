@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/15806/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/.project
+END
+StrategyAgentEngineSuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/StrategyAgentEngineSuite.launch
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10792/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/build.properties
+END

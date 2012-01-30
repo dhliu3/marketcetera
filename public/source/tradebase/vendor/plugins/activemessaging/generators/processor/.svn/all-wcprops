@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10298/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/USAGE
+END
+processor_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10620/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/processor_generator.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10898/root/trunk/source/core/src/test/java/org/marketcetera/core/position
+END
+ImmutablePositionSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10804/root/trunk/source/core/src/test/java/org/marketcetera/core/position/ImmutablePositionSupportTest.java
+END
+PositionKeyTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/core/position/PositionKeyTestBase.java
+END
+MockTrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/MockTrade.java
+END

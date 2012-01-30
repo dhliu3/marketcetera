@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers
+END
+PointDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/PointDataParser.java
+END
+IntDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/IntDataParser.java
+END
+CharacterDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/CharacterDataParser.java
+END
+DeviceDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/DeviceDataParser.java
+END
+BundleClassDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/BundleClassDataParser.java
+END
+StringBufferDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/StringBufferDataParser.java
+END
+ValueOfDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ValueOfDataParser.java
+END
+ByteDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ByteDataParser.java
+END
+RectangleDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/RectangleDataParser.java
+END
+ClassDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ClassDataParser.java
+END
+StringArrayDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/StringArrayDataParser.java
+END
+FontDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/FontDataParser.java
+END
+StringDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/StringDataParser.java
+END
+RGBDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/RGBDataParser.java
+END
+NewInstanceDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/NewInstanceDataParser.java
+END
+ArrayDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ArrayDataParser.java
+END
+MethodDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/MethodDataParser.java
+END
+ControlDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ControlDataParser.java
+END
+ImageDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ImageDataParser.java
+END
+WidgetDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/WidgetDataParser.java
+END
+StaticFieldsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/StaticFieldsParser.java
+END
+ConstructorDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/ConstructorDataParser.java
+END

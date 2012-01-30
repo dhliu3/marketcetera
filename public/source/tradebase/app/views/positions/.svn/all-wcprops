@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/positions
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/positions/list.rhtml
+END
+positions_search_output.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/positions/positions_search_output.rhtml
+END
+_positions_list_display.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/positions/_positions_list_display.rhtml
+END

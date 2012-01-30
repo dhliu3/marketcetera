@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/10551/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification
+END
+DesktopNotificationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/9860/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/DesktopNotificationController.java
+END
+DesktopNotificationPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10268/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/DesktopNotificationPopup.java
+END
+AbstractNotificationJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10324/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/AbstractNotificationJob.java
+END
+NotificationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/9860/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/NotificationPlugin.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/9860/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/Messages.java
+END
+PlayWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/9860/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/PlayWave.java
+END
+NotificationConsoleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/9860/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/NotificationConsoleController.java
+END
+PopupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10551/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/java/org/marketcetera/photon/notification/PopupJob.java
+END

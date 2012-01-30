@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/modules/misc/src/test/sample_data/inputs
+END
+table.csv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10298/root/trunk/source/modules/misc/src/test/sample_data/inputs/table.csv
+END
+insufficient_rows.csv
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10298/root/trunk/source/modules/misc/src/test/sample_data/inputs/insufficient_rows.csv
+END

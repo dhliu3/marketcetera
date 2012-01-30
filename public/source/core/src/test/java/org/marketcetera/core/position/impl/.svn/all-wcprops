@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10898/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl
+END
+PositionKeyImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionKeyImplTest.java
+END
+MultiplierCalculatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10886/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/MultiplierCalculatorTest.java
+END
+PositionMetricsCalculatorTestTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionMetricsCalculatorTestTemplate.java
+END
+OrderingComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10490/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/OrderingComparison.java
+END
+PositionKeyComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionKeyComparatorTest.java
+END
+BigDecimalMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/BigDecimalMatchers.java
+END
+OrderingTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/OrderingTestHelper.java
+END
+MockExecutionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10898/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/MockExecutionReport.java
+END
+SummaryRowUpdaterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/SummaryRowUpdaterTest.java
+END
+PositionEngineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionEngineImplTest.java
+END
+PositionMetricsImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionMetricsImplTest.java
+END
+PositionRowUpdaterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionRowUpdaterTest.java
+END
+GroupingListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/GroupingListTest.java
+END
+ExpectedListChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/ExpectedListChanges.java
+END
+PositionMetricsCalculatorImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionMetricsCalculatorImplTest.java
+END
+BasicCalculatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/BasicCalculatorTest.java
+END
+BasicCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10804/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/BasicCalculator.java
+END
+PositionRowUpdaterConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/core/position/impl/PositionRowUpdaterConcurrencyTest.java
+END

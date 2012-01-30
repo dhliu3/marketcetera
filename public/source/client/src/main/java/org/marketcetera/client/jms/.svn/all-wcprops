@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11022/root/trunk/source/client/src/main/java/org/marketcetera/client/jms
+END
+JmsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/JmsFactory.java
+END
+ReceiveOnlyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/ReceiveOnlyHandler.java
+END
+JmsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/JmsManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10492/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/package-info.java
+END
+IncomingJmsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/IncomingJmsFactory.java
+END
+JMSMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/JMSMessageConverter.java
+END
+JMSXMLMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/11022/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/JMSXMLMessageConverter.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/Messages.java
+END
+OrderEnvelope.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10492/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/OrderEnvelope.java
+END
+ReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/ReplyHandler.java
+END
+JmsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10492/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/JmsUtils.java
+END
+JMSFIXMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/JMSFIXMessageConverter.java
+END
+OutgoingJmsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10407/root/trunk/source/client/src/main/java/org/marketcetera/client/jms/OutgoingJmsFactory.java
+END

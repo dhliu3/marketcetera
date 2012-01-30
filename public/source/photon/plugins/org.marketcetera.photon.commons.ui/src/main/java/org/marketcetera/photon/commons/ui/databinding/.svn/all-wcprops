@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding
+END
+DataBindingPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/DataBindingPreferencePage.java
+END
+ObservingComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/ObservingComposite.java
+END
+RequiredFieldSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/RequiredFieldSupport.java
+END
+PropertyWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/PropertyWatcher.java
+END
+CustomWizardPageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/CustomWizardPageSupport.java
+END
+DataBindingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/DataBindingUtils.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/Messages.java
+END
+ProxyObservables.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/ProxyObservables.java
+END
+UpdateStrategyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/databinding/UpdateStrategyFactory.java
+END

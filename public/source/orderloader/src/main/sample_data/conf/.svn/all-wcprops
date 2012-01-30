@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/11022/root/trunk/source/orderloader/src/main/sample_data/conf
+END
+orderloader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10227/root/trunk/source/orderloader/src/main/sample_data/conf/orderloader.xml
+END
+orderloader_default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10227/root/trunk/source/orderloader/src/main/sample_data/conf/orderloader_default.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11022/root/trunk/source/orderloader/src/main/sample_data/conf/log4j.properties
+END
+orderloader_user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10227/root/trunk/source/orderloader/src/main/sample_data/conf/orderloader_user.properties
+END

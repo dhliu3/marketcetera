@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.tests/src/test/java/org/marketcetera/photon/strategy/engine
+END
+StrategyEnginesCoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.tests/src/test/java/org/marketcetera/photon/strategy/engine/StrategyEnginesCoreTest.java
+END
+AbstractStrategyEngineConnectionTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.tests/src/test/java/org/marketcetera/photon/strategy/engine/AbstractStrategyEngineConnectionTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.tests/src/test/java/org/marketcetera/photon/strategy/engine/MessagesTest.java
+END
+AbstractStrategyEngineConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.tests/src/test/java/org/marketcetera/photon/strategy/engine/AbstractStrategyEngineConnectionTest.java
+END

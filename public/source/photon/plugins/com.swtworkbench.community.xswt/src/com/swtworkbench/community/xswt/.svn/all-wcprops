@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt
+END
+DefaultURIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/DefaultURIHandler.java
+END
+ICustomNSHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/ICustomNSHandler.java
+END
+XSWTException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/XSWTException.java
+END
+XswtPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/XswtPlugin.java
+END
+XSWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/XSWT.java
+END
+StringInputStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/StringInputStreamFactory.java
+END
+XSWTListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/XSWTListener.java
+END
+DuckMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/DuckMapper.java
+END
+ClassBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/ClassBuilder.java
+END
+StyleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/StyleParser.java
+END
+URIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/URIHandler.java
+END

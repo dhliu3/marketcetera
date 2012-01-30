@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl
+END
+MDQuoteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDQuoteImpl.java
+END
+MDItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDItemImpl.java
+END
+MDMarketstatImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDMarketstatImpl.java
+END
+MDTopOfBookImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDTopOfBookImpl.java
+END
+MDDepthOfBookImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDDepthOfBookImpl.java
+END
+MDFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDFactoryImpl.java
+END
+MDLatestTickImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDLatestTickImpl.java
+END
+MDPackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/model/java/org/marketcetera/photon/model/marketdata/impl/MDPackageImpl.java
+END

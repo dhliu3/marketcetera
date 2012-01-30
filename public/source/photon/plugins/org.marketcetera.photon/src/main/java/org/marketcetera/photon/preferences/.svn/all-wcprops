@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences
+END
+FIXMessageColumnChooserEditorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/FIXMessageColumnChooserEditorPage.java
+END
+FIXMessageColumnChooserEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/FIXMessageColumnChooserEditor.java
+END
+PhotonPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10189/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/PhotonPage.java
+END
+PasswordStringFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/PasswordStringFieldEditor.java
+END
+FIXMessageColumnPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/FIXMessageColumnPreferencePage.java
+END
+TradingHistoryPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/TradingHistoryPreferencePage.java
+END
+CustomFieldsMapEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/CustomFieldsMapEditor.java
+END
+FIXMessageColumnChooserLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/FIXMessageColumnChooserLabelProvider.java
+END
+CustomOrderFieldPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/CustomOrderFieldPage.java
+END
+UrlFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/UrlFieldEditor.java
+END
+ConnectionsPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10283/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/ConnectionsPreferencePage.java
+END
+PreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10492/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/PreferenceInitializer.java
+END
+MapEditorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/MapEditorUtil.java
+END
+FIXMessageColumnPreferenceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/FIXMessageColumnPreferenceParser.java
+END
+TimeOfDayFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10229/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/TimeOfDayFieldEditor.java
+END
+MapDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/preferences/MapDialog.java
+END

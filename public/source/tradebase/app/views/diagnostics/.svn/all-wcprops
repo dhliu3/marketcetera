@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/diagnostics
+END
+tradebase_log_display.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/diagnostics/tradebase_log_display.rhtml
+END
+server_info.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/diagnostics/server_info.rhtml
+END
+index.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/diagnostics/index.rhtml
+END
+ors_log_display.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/diagnostics/ors_log_display.rhtml
+END

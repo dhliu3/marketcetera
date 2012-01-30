@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/15955/root/trunk/source/core/src/test/java/org/marketcetera/core
+END
+FIXVersionedTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9972/root/trunk/source/core/src/test/java/org/marketcetera/core/FIXVersionedTestCase.java
+END
+BigDecimalUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/BigDecimalUtilsTest.java
+END
+LoggerStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9483/root/trunk/source/core/src/test/java/org/marketcetera/core/LoggerStartupTest.java
+END
+ThreadLocalSimpleDateFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/ThreadLocalSimpleDateFormatTest.java
+END
+FIXVersionTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9972/root/trunk/source/core/src/test/java/org/marketcetera/core/FIXVersionTestSuite.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/9477/root/trunk/source/core/src/test/java/org/marketcetera/core/MessagesTest.java
+END
+LoggerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/core/LoggerConfiguration.java
+END
+ExpectedTestFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/ExpectedTestFailureTest.java
+END
+ExpectedTestFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/ExpectedTestFailure.java
+END
+DatabaseIDFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10934/root/trunk/source/core/src/test/java/org/marketcetera/core/DatabaseIDFactoryTest.java
+END
+ApplicationVersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/15955/root/trunk/source/core/src/test/java/org/marketcetera/core/ApplicationVersionTest.java
+END
+AccountIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/AccountIDTest.java
+END
+UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10904/root/trunk/source/core/src/test/java/org/marketcetera/core/UtilTest.java
+END
+AccessViolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/AccessViolator.java
+END
+AccessViolatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/AccessViolatorTest.java
+END
+MarketceteraTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9483/root/trunk/source/core/src/test/java/org/marketcetera/core/MarketceteraTestSuite.java
+END
+MemoizedHashCombinatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/MemoizedHashCombinatorTest.java
+END
+PairTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/core/PairTest.java
+END
+ViolatedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/core/ViolatedClass.java
+END
+ImmediateExecutorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/1797/root/trunk/source/core/src/test/java/org/marketcetera/core/ImmediateExecutorService.java
+END

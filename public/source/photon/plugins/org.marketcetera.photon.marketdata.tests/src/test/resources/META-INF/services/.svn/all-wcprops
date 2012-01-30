@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.tests/src/test/resources/META-INF/services
+END
+org.marketcetera.module.ModuleFactory
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata.tests/src/test/resources/META-INF/services/org.marketcetera.module.ModuleFactory
+END

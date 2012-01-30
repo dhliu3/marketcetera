@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10690/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n
+END
+I18NMessageInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9940/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/I18NMessageInfoTest.java
+END
+MessageInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9906/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/MessageInfoTest.java
+END
+ContainerClassInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10690/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/ContainerClassInfoTest.java
+END
+PropertyMessageInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9940/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/PropertyMessageInfoTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9940/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9427/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/TestMessages.java
+END
+PropertiesFileInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10690/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/PropertiesFileInfoTest.java
+END
+MessageInfoTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9940/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/MessageInfoTestBase.java
+END
+MessageComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10690/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/MessageComparatorTest.java
+END
+MessageInfoPairTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9940/root/trunk/source/util/src/test/java/org/marketcetera/util/l10n/MessageInfoPairTest.java
+END

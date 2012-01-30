@@ -1,0 +1,18 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 1138
+/root/branches/anshul/dotnet/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/resources/org/marketcetera/photon/internal/positions/ui/_messages.properties:10292-10295
+/root/branches/colin/fortum/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/resources/org/marketcetera/photon/internal/positions/ui/_messages.properties:10957-11005
+/root/branches/will/messagehistory/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/resources/org/marketcetera/photon/internal/positions/ui/_messages.properties:10075-10097
+/root/branches/will/options/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/resources/org/marketcetera/photon/internal/positions/ui/_messages.properties:10851-10874
+/root/branches/will/strategy/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/resources/org/marketcetera/photon/internal/positions/ui/_messages.properties:10011,10018,10021-10026,10032-10035,10050-10055
+/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/resources/org/marketcetera/photon/internal/positions/ui/_messages.properties:10865-10870
+K 13
+svn:mime-type
+V 30
+text/plain; charset=iso-8859-1
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/16058/root/trunk/source/photon/plugins/org.marketcetera.rss/bin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/16057/root/trunk/source/photon/plugins/org.marketcetera.rss/bin/.project
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/16058/root/trunk/source/photon/plugins/org.marketcetera.rss/bin/plugin.xml
+END
+rssview.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/16057/root/trunk/source/photon/plugins/org.marketcetera.rss/bin/rssview.jar
+END

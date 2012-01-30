@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/10922/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views
+END
+XSWTTestView.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/XSWTTestView.java
+END
+OptionOrderTicketViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/10900/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/OptionOrderTicketViewTest.java
+END
+FillsViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/FillsViewTest.java
+END
+OrderTicketViewTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10922/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/OrderTicketViewTestBase.java
+END
+ViewTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/ViewTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/MessagesTest.java
+END
+StockOrderTicketXSWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/StockOrderTicketXSWTTest.java
+END
+FIXMessagesViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/FIXMessagesViewTest.java
+END
+OptionOrderTicketViewFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10900/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/OptionOrderTicketViewFixture.java
+END
+OpenOrdersViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10138/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/OpenOrdersViewTest.java
+END
+AveragePricesViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/AveragePricesViewTest.java
+END
+AddSymbolActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/AddSymbolActionTest.java
+END
+StockOrderTicketViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/StockOrderTicketViewTest.java
+END
+OrderTicketViewFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/OrderTicketViewFixture.java
+END
+StockOrderTicketViewFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/StockOrderTicketViewFixture.java
+END
+MarketDataViewItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/MarketDataViewItemTest.java
+END
+InstrumentMementoSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/InstrumentMementoSerializerTest.java
+END
+XSWTViewTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/10153/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/XSWTViewTestBase.java
+END
+OptionOrderTicketXSWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/views/OptionOrderTicketXSWTTest.java
+END

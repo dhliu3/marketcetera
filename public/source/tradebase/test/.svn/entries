@@ -1,0 +1,77 @@
+10
+
+dir
+16059
+http://source.marketcetera.org/root/trunk/source/tradebase/test
+http://source.marketcetera.org
+
+
+
+2009-11-06T20:28:52.807829Z
+10848
+klim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+501a4a96-914b-0410-8454-f5988a4ca596
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2012-01-21T00:01:07.000000Z
+6a44d729134b0bcc4f0fd80fd0f0cbbf
+2009-06-22T07:27:44.316280Z
+10620
+tlerios
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1277
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+
+mocks
+dir
+

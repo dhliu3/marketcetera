@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/16019/root/trunk/source/core/src/main/java/org/marketcetera/trade
+END
+ExecutionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10898/root/trunk/source/core/src/main/java/org/marketcetera/trade/ExecutionReport.java
+END
+OrderCancelRejectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10419/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderCancelRejectImpl.java
+END
+StandardType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/StandardType.java
+END
+TradeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/TradeMessage.java
+END
+FIXResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXResponse.java
+END
+ReportBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10419/root/trunk/source/core/src/main/java/org/marketcetera/trade/ReportBase.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/16001/root/trunk/source/core/src/main/java/org/marketcetera/trade/Messages.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10865/root/trunk/source/core/src/main/java/org/marketcetera/trade/Factory.java
+END
+CommodityUnderlyingAssetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/CommodityUnderlyingAssetType.java
+END
+OrderSingleSuggestionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderSingleSuggestionImpl.java
+END
+Instrument.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/trade/Instrument.java
+END
+SecurityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10951/root/trunk/source/core/src/main/java/org/marketcetera/trade/SecurityType.java
+END
+OptionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10951/root/trunk/source/core/src/main/java/org/marketcetera/trade/OptionType.java
+END
+FutureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/FutureType.java
+END
+RelatedOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/RelatedOrder.java
+END
+FutureUnderlyingAssetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/FutureUnderlyingAssetType.java
+END
+OrderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/16005/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderType.java
+END
+Originator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/Originator.java
+END
+FIXConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11022/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXConverter.java
+END
+OrderCancelReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10578/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderCancelReject.java
+END
+OrderStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/15975/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderStatus.java
+END
+FutureExpirationMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/FutureExpirationMonth.java
+END
+FIXUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10842/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXUtil.java
+END
+Side.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/Side.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10490/root/trunk/source/core/src/main/java/org/marketcetera/trade/package-info.java
+END
+OrderSingleSuggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderSingleSuggestion.java
+END
+FinancialUnderlyingAssetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/FinancialUnderlyingAssetType.java
+END
+MessageCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/MessageCreationException.java
+END
+HasCFICode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/HasCFICode.java
+END
+FIXMessageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXMessageSupport.java
+END
+OrderBaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/15942/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderBaseImpl.java
+END
+ReportID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10309/root/trunk/source/core/src/main/java/org/marketcetera/trade/ReportID.java
+END
+OrderCapacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderCapacity.java
+END
+OrderReplaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/11022/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderReplaceImpl.java
+END
+UserID.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10492/root/trunk/source/core/src/main/java/org/marketcetera/trade/UserID.java
+END
+FIXMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXMessageAdapter.java
+END
+OrderSingleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11022/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderSingleImpl.java
+END
+BrokerID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10368/root/trunk/source/core/src/main/java/org/marketcetera/trade/BrokerID.java
+END
+OrderCancelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11022/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderCancelImpl.java
+END
+NewOrReplaceOrderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/NewOrReplaceOrderImpl.java
+END
+FIXOrderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10309/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXOrderImpl.java
+END
+TimeInForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/TimeInForce.java
+END
+ExecutionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11046/root/trunk/source/core/src/main/java/org/marketcetera/trade/ExecutionType.java
+END
+OrderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11022/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderBase.java
+END
+OrderReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderReplace.java
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10891/root/trunk/source/core/src/main/java/org/marketcetera/trade/Option.java
+END
+Future.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/15836/root/trunk/source/core/src/main/java/org/marketcetera/trade/Future.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/Order.java
+END
+OrderSingle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderSingle.java
+END
+Equity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/trade/Equity.java
+END
+ExecutionReportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10898/root/trunk/source/core/src/main/java/org/marketcetera/trade/ExecutionReportImpl.java
+END
+OrderCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderCancel.java
+END
+PositionEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10842/root/trunk/source/core/src/main/java/org/marketcetera/trade/PositionEffect.java
+END
+NewOrReplaceOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10875/root/trunk/source/core/src/main/java/org/marketcetera/trade/NewOrReplaceOrder.java
+END
+FIXOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXOrder.java
+END
+DeliveryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/trade/DeliveryType.java
+END
+FIXResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXResponseImpl.java
+END
+Suggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/trade/Suggestion.java
+END
+OrderID.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10309/root/trunk/source/core/src/main/java/org/marketcetera/trade/OrderID.java
+END
+ReportBaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10419/root/trunk/source/core/src/main/java/org/marketcetera/trade/ReportBaseImpl.java
+END
+FactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/16003/root/trunk/source/core/src/main/java/org/marketcetera/trade/FactoryImpl.java
+END
+FIXMessageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10613/root/trunk/source/core/src/main/java/org/marketcetera/trade/FIXMessageWrapper.java
+END

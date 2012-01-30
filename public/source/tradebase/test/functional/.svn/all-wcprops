@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional
+END
+queries_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/queries_controller_test.rb
+END
+marks_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/marks_controller_test.rb
+END
+accounts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/accounts_controller_test.rb
+END
+trades_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/trades_controller_test.rb
+END
+positions_queries_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/positions_queries_controller_test.rb
+END
+positions_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/positions_controller_test.rb
+END
+equities_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/equities_controller_test.rb
+END
+currency_pairs_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/currency_pairs_controller_test.rb
+END
+sub_accounts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/sub_accounts_controller_test.rb
+END
+record_trade_processor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/record_trade_processor_test.rb
+END
+pnl_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/pnl_controller_test.rb
+END
+welcome_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/welcome_controller_test.rb
+END
+currencies_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/currencies_controller_test.rb
+END
+m_symbols_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/m_symbols_controller_test.rb
+END
+create_trades_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/create_trades_controller_test.rb
+END
+import_marks_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/import_marks_controller_test.rb
+END
+diagnostics_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/diagnostics_controller_test.rb
+END
+messages_log_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/messages_log_controller_test.rb
+END
+dividends_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10298/root/trunk/source/tradebase/test/functional/dividends_controller_test.rb
+END

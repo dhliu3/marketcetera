@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/16001/root/trunk/source/modules/strategy/src/test/sample_data/inputs
+END
+DataFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10885/root/trunk/source/modules/strategy/src/test/sample_data/inputs/DataFlow.java
+END
+StrategyA.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11150/root/trunk/source/modules/strategy/src/test/sample_data/inputs/StrategyA.java
+END
+EmptyStrategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/EmptyStrategy.rb
+END
+OrderRetention.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/modules/strategy/src/test/sample_data/inputs/OrderRetention.java
+END
+ParameterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10229/root/trunk/source/modules/strategy/src/test/sample_data/inputs/ParameterStrategy.java
+END
+JavaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/15845/root/trunk/source/modules/strategy/src/test/sample_data/inputs/JavaStrategy.java
+END
+suggest_trades.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10808/root/trunk/source/modules/strategy/src/test/sample_data/inputs/suggest_trades.rb
+END
+bad_on_stop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/bad_on_stop.rb
+END
+BadStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10309/root/trunk/source/modules/strategy/src/test/sample_data/inputs/BadStrategy.java
+END
+part1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/part1.rb
+END
+positions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10848/root/trunk/source/modules/strategy/src/test/sample_data/inputs/positions.rb
+END
+combined_request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10930/root/trunk/source/modules/strategy/src/test/sample_data/inputs/combined_request.rb
+END
+send_event.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10833/root/trunk/source/modules/strategy/src/test/sample_data/inputs/send_event.rb
+END
+PackageStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10229/root/trunk/source/modules/strategy/src/test/sample_data/inputs/PackageStrategy.java
+END
+part1_redefined.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/part1_redefined.rb
+END
+send_message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10767/root/trunk/source/modules/strategy/src/test/sample_data/inputs/send_message.rb
+END
+orders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10808/root/trunk/source/modules/strategy/src/test/sample_data/inputs/orders.rb
+END
+EmptyStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10309/root/trunk/source/modules/strategy/src/test/sample_data/inputs/EmptyStrategy.java
+END
+width_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10808/root/trunk/source/modules/strategy/src/test/sample_data/inputs/width_strategy.rb
+END
+order_retention.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10848/root/trunk/source/modules/strategy/src/test/sample_data/inputs/order_retention.rb
+END
+SuggestTrades.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10808/root/trunk/source/modules/strategy/src/test/sample_data/inputs/SuggestTrades.java
+END
+other1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/other1.rb
+END
+RubyStrategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/15845/root/trunk/source/modules/strategy/src/test/sample_data/inputs/RubyStrategy.rb
+END
+Part2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10229/root/trunk/source/modules/strategy/src/test/sample_data/inputs/Part2.java
+END
+CombinedRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10930/root/trunk/source/modules/strategy/src/test/sample_data/inputs/CombinedRequest.java
+END
+SendOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10885/root/trunk/source/modules/strategy/src/test/sample_data/inputs/SendOther.java
+END
+BadRubyStrategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/BadRubyStrategy.rb
+END
+require.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/require.rb
+END
+StrategyWithHelpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10838/root/trunk/source/modules/strategy/src/test/sample_data/inputs/StrategyWithHelpers.rb
+END
+WrongClass.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/WrongClass.rb
+END
+part2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/part2.rb
+END
+SimpleStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10039/root/trunk/source/modules/strategy/src/test/sample_data/inputs/SimpleStrategy.java
+END
+send_other.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10808/root/trunk/source/modules/strategy/src/test/sample_data/inputs/send_other.rb
+END
+bad_on_start.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/bad_on_start.rb
+END
+StrategyWithHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10838/root/trunk/source/modules/strategy/src/test/sample_data/inputs/StrategyWithHelpers.java
+END
+data_flow.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10838/root/trunk/source/modules/strategy/src/test/sample_data/inputs/data_flow.rb
+END
+WrongClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10309/root/trunk/source/modules/strategy/src/test/sample_data/inputs/WrongClass.java
+END
+ParameterStrategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10620/root/trunk/source/modules/strategy/src/test/sample_data/inputs/ParameterStrategy.rb
+END
+Part1.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10229/root/trunk/source/modules/strategy/src/test/sample_data/inputs/Part1.java
+END
+Positions.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10885/root/trunk/source/modules/strategy/src/test/sample_data/inputs/Positions.java
+END
+SendEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10833/root/trunk/source/modules/strategy/src/test/sample_data/inputs/SendEvent.java
+END
+SendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10767/root/trunk/source/modules/strategy/src/test/sample_data/inputs/SendMessage.java
+END
+Orders.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/16001/root/trunk/source/modules/strategy/src/test/sample_data/inputs/Orders.java
+END

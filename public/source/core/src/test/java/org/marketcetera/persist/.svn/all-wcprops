@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10951/root/trunk/source/core/src/test/java/org/marketcetera/persist
+END
+MultiDataTypesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiDataTypesQuery.java
+END
+MultiQueryOrderComparableTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryOrderComparableTestHelper.java
+END
+MultiQueryOrderStringTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/9474/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryOrderStringTestHelper.java
+END
+ExecuteSQLFromFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9462/root/trunk/source/core/src/test/java/org/marketcetera/persist/ExecuteSQLFromFile.java
+END
+MultiQueryOrderLastUpdatedTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryOrderLastUpdatedTestHelper.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/MessagesTest.java
+END
+EntityTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10171/root/trunk/source/core/src/test/java/org/marketcetera/persist/EntityTestBase.java
+END
+IncorrectSetupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9571/root/trunk/source/core/src/test/java/org/marketcetera/persist/IncorrectSetupTest.java
+END
+DataTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10591/root/trunk/source/core/src/test/java/org/marketcetera/persist/DataTypeTest.java
+END
+MultiQueryOrderTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9471/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryOrderTestHelper.java
+END
+MultiQueryStringFilterTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryStringFilterTestHelper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10850/root/trunk/source/core/src/test/java/org/marketcetera/persist/package.html
+END
+CorePersistNDTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9462/root/trunk/source/core/src/test/java/org/marketcetera/persist/CorePersistNDTestBase.java
+END
+MultiQueryDateFilterTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10951/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryDateFilterTestHelper.java
+END
+PersistTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10171/root/trunk/source/core/src/test/java/org/marketcetera/persist/PersistTestBase.java
+END
+MultiQueryFilterTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryFilterTestHelper.java
+END
+MultiQueryBooleanFilterTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/MultiQueryBooleanFilterTestHelper.java
+END
+SingleDataTypesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/SingleDataTypesQuery.java
+END
+ManyToManyTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/ManyToManyTestBase.java
+END
+NDEntityTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/NDEntityTestBase.java
+END
+SummaryDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/SummaryDataType.java
+END
+EnvironmentConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10951/root/trunk/source/core/src/test/java/org/marketcetera/persist/EnvironmentConfigurationTest.java
+END
+DataTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/9470/root/trunk/source/core/src/test/java/org/marketcetera/persist/DataTypes.java
+END

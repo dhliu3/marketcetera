@@ -1,0 +1,58 @@
+10
+
+dir
+16059
+http://source.marketcetera.org/root/trunk/source/util/src/test/sample_data
+http://source.marketcetera.org
+
+
+
+2009-12-01T22:13:05.858335Z
+10918
+klim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+501a4a96-914b-0410-8454-f5988a4ca596
+
+file_type
+dir
+
+auth
+dir
+
+spring
+dir
+
+quickfix
+dir
+
+wrappers
+dir
+
+deleter
+dir
+
+unicode
+dir
+
+directory_walker
+dir
+
+ws
+dir
+
+copy_utils
+dir
+

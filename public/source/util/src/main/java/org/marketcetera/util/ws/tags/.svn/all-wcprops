@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10474/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags
+END
+SessionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/SessionId.java
+END
+TagFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/TagFilter.java
+END
+NodeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/NodeId.java
+END
+VersionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10474/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/VersionId.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10389/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/package-info.java
+END
+ValidSessionTagFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/ValidSessionTagFilter.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/Messages.java
+END
+NonNullTagFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/NonNullTagFilter.java
+END
+PassThruTagFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/PassThruTagFilter.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/Tag.java
+END
+EqualsTagFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/EqualsTagFilter.java
+END
+AppId.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10388/root/trunk/source/util/src/main/java/org/marketcetera/util/ws/tags/AppId.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10603/root/trunk/source/util/src/test/java/org/marketcetera/util/log
+END
+I18NMessageProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10603/root/trunk/source/util/src/test/java/org/marketcetera/util/log/I18NMessageProviderTest.java
+END
+LogUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/LogUtilsTest.java
+END
+TI18NLoggerProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NLoggerProxyTest.java
+END
+TI18NMessageNPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessageNPTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TestMessages.java
+END
+TSLF4JLoggerProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10603/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TSLF4JLoggerProxyTest.java
+END
+TI18NMessage0PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage0PTest.java
+END
+TI18NMessage1PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage1PTest.java
+END
+TI18NMessage2PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage2PTest.java
+END
+TI18NMessage3PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage3PTest.java
+END
+TI18NMessage4PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage4PTest.java
+END
+TI18NMessage5PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage5PTest.java
+END
+TI18NMessage6PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/TI18NMessage6PTest.java
+END
+I18NMessageTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/I18NMessageTestBase.java
+END
+I18NMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/I18NMessageTest.java
+END
+ActiveLocaleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9943/root/trunk/source/util/src/test/java/org/marketcetera/util/log/ActiveLocaleTest.java
+END

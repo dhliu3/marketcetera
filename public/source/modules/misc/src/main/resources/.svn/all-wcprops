@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/10885/root/trunk/source/modules/misc/src/main/resources
+END
+modules_csv_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10592/root/trunk/source/modules/misc/src/main/resources/modules_csv_messages.properties
+END
+modules_async_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/modules/misc/src/main/resources/modules_async_messages.properties
+END

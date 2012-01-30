@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model
+END
+FactoryClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/FactoryClass.javajet
+END
+Plugin.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/Plugin.javajet
+END
+AdapterFactoryClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/AdapterFactoryClass.javajet
+END
+ResourceFactoryClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/ResourceFactoryClass.javajet
+END
+Class.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/Class.javajet
+END
+plugin.propertiesjet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/plugin.propertiesjet
+END
+build.propertiesjet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/build.propertiesjet
+END
+ValidatorClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/ValidatorClass.javajet
+END
+plugin.xmljet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/plugin.xmljet
+END
+ResourceClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/ResourceClass.javajet
+END
+PackageClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/PackageClass.javajet
+END
+XMLProcessorClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/XMLProcessorClass.javajet
+END
+manifest.mfjet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10836/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/manifest.mfjet
+END
+SwitchClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/SwitchClass.javajet
+END
+EnumClass.javajet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/templates/model/EnumClass.javajet
+END

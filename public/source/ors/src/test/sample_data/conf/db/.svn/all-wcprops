@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/db
+END
+vendors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/db/vendors.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/db/main.xml
+END
+db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/db/db.xml
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/db/orm.xml
+END

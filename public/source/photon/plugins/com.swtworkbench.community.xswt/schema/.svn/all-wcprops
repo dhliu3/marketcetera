@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/schema
+END
+dataParser.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/schema/dataParser.exsd
+END
+scriptingEngine.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/schema/scriptingEngine.exsd
+END
+classBuilder.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/schema/classBuilder.exsd
+END

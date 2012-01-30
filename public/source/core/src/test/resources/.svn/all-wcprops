@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10980/root/trunk/source/core/src/test/resources
+END
+configLoading.notProperties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10298/root/trunk/source/core/src/test/resources/configLoading.notProperties
+END
+test_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10151/root/trunk/source/core/src/test/resources/test_messages.properties
+END
+core_persist_test_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10151/root/trunk/source/core/src/test/resources/core_persist_test_messages.properties
+END
+persist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/9496/root/trunk/source/core/src/test/resources/persist.xml
+END
+core_event_test_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10492/root/trunk/source/core/src/test/resources/core_event_test_messages.properties
+END
+next_id_batch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1797/root/trunk/source/core/src/test/resources/next_id_batch.xml
+END
+configLoading.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10151/root/trunk/source/core/src/test/resources/configLoading.properties
+END
+core_module_test_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10331/root/trunk/source/core/src/test/resources/core_module_test_messages.properties
+END
+marketdata_test_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10151/root/trunk/source/core/src/test/resources/marketdata_test_messages.properties
+END

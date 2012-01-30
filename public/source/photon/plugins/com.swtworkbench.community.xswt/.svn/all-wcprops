@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/15806/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/.classpath
+END
+tocconcepts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/tocconcepts.xml
+END
+tocreference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/tocreference.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/.project
+END
+toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/toc.xml
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10298/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/TODO
+END
+Changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/Changes.txt
+END
+.template
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/.template
+END
+tocsamples.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/tocsamples.xml
+END
+toctasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/toctasks.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10151/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/build.properties
+END
+tocgettingstarted.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/tocgettingstarted.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/plugin.xml
+END

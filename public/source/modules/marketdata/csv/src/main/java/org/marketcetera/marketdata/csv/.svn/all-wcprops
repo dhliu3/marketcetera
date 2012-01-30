@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/16038/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv
+END
+CSVFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/16038/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeed.java
+END
+CSVFeedToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/11150/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedToken.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10940/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/package-info.java
+END
+CSVFeedModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/16026/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedModule.java
+END
+CSVQuantum.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/15959/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVQuantum.java
+END
+CSVFeedFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/11150/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedFactory.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/16025/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/Messages.java
+END
+CSVFeedMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/16025/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedMXBean.java
+END
+CSVFeedEventTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/11150/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedEventTranslator.java
+END
+BasicCSVFeedEventTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/15836/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/BasicCSVFeedEventTranslator.java
+END
+CSVFeedCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/16026/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedCredentials.java
+END
+CSVFeedModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/11150/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedModuleFactory.java
+END
+CSVFeedMessageTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/11150/root/trunk/source/modules/marketdata/csv/src/main/java/org/marketcetera/marketdata/csv/CSVFeedMessageTranslator.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11022/root/trunk/source/orderloader/src/test/java/org/marketcetera/orderloader
+END
+OrderLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10842/root/trunk/source/orderloader/src/test/java/org/marketcetera/orderloader/OrderLoaderTest.java
+END
+MainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10842/root/trunk/source/orderloader/src/test/java/org/marketcetera/orderloader/MainTest.java
+END
+MockOrderProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10231/root/trunk/source/orderloader/src/test/java/org/marketcetera/orderloader/MockOrderProcessor.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11022/root/trunk/source/orderloader/src/test/java/org/marketcetera/orderloader/MessagesTest.java
+END
+OrderParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10842/root/trunk/source/orderloader/src/test/java/org/marketcetera/orderloader/OrderParserTest.java
+END

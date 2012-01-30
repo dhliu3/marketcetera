@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/parser
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/parser/Messages.java
+END
+OrderSingleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/parser/OrderSingleParser.java
+END
+CommandParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/parser/CommandParser.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlhandler
+END
+IElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlhandler/IElementHandler.java
+END
+IAttributeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlhandler/IAttributeHandler.java
+END
+IHandlerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlhandler/IHandlerContext.java
+END

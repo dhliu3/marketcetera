@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui
+END
+DeployStrategyComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/DeployStrategyComposite.java
+END
+DeployedStrategyConfigurationComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/DeployedStrategyConfigurationComposite.java
+END
+StrategyEngineIdentificationComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/StrategyEngineIdentificationComposite.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/Messages.java
+END

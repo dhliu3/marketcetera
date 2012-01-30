@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10906/root/trunk/source/client/src/test/resources
+END
+client_test_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10906/root/trunk/source/client/src/test/resources/client_test_messages.properties
+END
+mock_server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10492/root/trunk/source/client/src/test/resources/mock_server.xml
+END

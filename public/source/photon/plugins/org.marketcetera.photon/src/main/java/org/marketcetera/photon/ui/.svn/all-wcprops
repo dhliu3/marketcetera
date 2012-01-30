@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/16059/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui
+END
+Level2ContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/9477/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/Level2ContentProvider.java
+END
+StatusIndicatorContributionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/StatusIndicatorContributionItem.java
+END
+ContextMenuFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/ContextMenuFactory.java
+END
+MessageListTableFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/10138/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/MessageListTableFormat.java
+END
+BrokerSupportTableFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/BrokerSupportTableFormat.java
+END
+TableComparatorChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/10551/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/TableComparatorChooser.java
+END
+TextContributionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/TextContributionItem.java
+END
+ServerStatusIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10628/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/ServerStatusIndicator.java
+END
+FIXMessageTableRefresher.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/FIXMessageTableRefresher.java
+END
+IndexedTableViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/IndexedTableViewer.java
+END
+MapEntryLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/MapEntryLabelProvider.java
+END
+OptionPerspectiveFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/OptionPerspectiveFactory.java
+END
+FuturePerspectiveFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/FuturePerspectiveFactory.java
+END
+FIXMessageTableFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/FIXMessageTableFormat.java
+END
+NullPerspectiveFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/NullPerspectiveFactory.java
+END
+EquityPerspectiveFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/EquityPerspectiveFactory.java
+END
+EventListContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10367/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/EventListContentProvider.java
+END
+MapEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/10955/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/MapEditor.java
+END
+EnumTableFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/EnumTableFormat.java
+END
+IBookComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/IBookComposite.java
+END
+CommandLineTrimWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/CommandLineTrimWidget.java
+END
+LoginDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/16059/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/LoginDialog.java
+END
+ISymbolProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/ISymbolProvider.java
+END
+PhotonConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/PhotonConsole.java
+END
+ClockTrimWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10628/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/ClockTrimWidget.java
+END
+MessageListTableFormatBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/MessageListTableFormatBase.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/quickfix
+END
+AnalyzerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/quickfix/AnalyzerTestBase.java
+END
+SpringSessionDescriptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/quickfix/SpringSessionDescriptorTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/quickfix/MessagesTest.java
+END
+SpringSessionSettingsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/quickfix/SpringSessionSettingsTest.java
+END
+AnalyzedMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/quickfix/AnalyzedMessageTest.java
+END

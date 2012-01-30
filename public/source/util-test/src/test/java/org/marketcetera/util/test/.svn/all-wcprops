@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10885/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test
+END
+EqualityAssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10229/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/EqualityAssertTest.java
+END
+UnicodeDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9898/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/UnicodeDataTest.java
+END
+TestCaseBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10828/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/TestCaseBaseTest.java
+END
+ComparableAssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10229/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/ComparableAssertTest.java
+END
+MemoryAppenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9355/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/MemoryAppenderTest.java
+END
+LogTestAssistTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10885/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/LogTestAssistTest.java
+END
+SerializableAssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10229/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/SerializableAssertTest.java
+END
+LogTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/LogTestBase.java
+END
+RegExAssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9898/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/RegExAssertTest.java
+END
+CollectionAssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9404/root/trunk/source/util-test/src/test/java/org/marketcetera/util/test/CollectionAssertTest.java
+END

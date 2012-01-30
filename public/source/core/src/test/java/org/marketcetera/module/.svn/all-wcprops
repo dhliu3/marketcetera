@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/10980/root/trunk/source/core/src/test/java/org/marketcetera/module
+END
+LifecycleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10555/root/trunk/source/core/src/test/java/org/marketcetera/module/LifecycleTest.java
+END
+JMXTestModuleMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10130/root/trunk/source/core/src/test/java/org/marketcetera/module/JMXTestModuleMXBean.java
+END
+ModuleConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/ModuleConcurrencyTest.java
+END
+DataFlowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/DataFlowTest.java
+END
+JMXTestModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10130/root/trunk/source/core/src/test/java/org/marketcetera/module/JMXTestModule.java
+END
+FlowRequesterModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/FlowRequesterModuleFactory.java
+END
+DynamicBeanDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/module/DynamicBeanDelegate.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10331/root/trunk/source/core/src/test/java/org/marketcetera/module/TestMessages.java
+END
+DynamicBeanModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/module/DynamicBeanModuleFactory.java
+END
+ExpectedFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/ExpectedFailureTest.java
+END
+ExpectedFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/ExpectedFailure.java
+END
+FlowRequesterModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10280/root/trunk/source/core/src/test/java/org/marketcetera/module/FlowRequesterModule.java
+END
+BlockingSinkDataListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/module/BlockingSinkDataListener.java
+END
+ConfigurationProviderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/ConfigurationProviderTestBase.java
+END
+SingleModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/SingleModuleFactory.java
+END
+ModuleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10368/root/trunk/source/core/src/test/java/org/marketcetera/module/ModuleBase.java
+END
+ModuleTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10980/root/trunk/source/core/src/test/java/org/marketcetera/module/ModuleTestBase.java
+END
+JMXTestFactoryMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/JMXTestFactoryMXBean.java
+END
+ConfigurationProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10592/root/trunk/source/core/src/test/java/org/marketcetera/module/ConfigurationProviderTest.java
+END
+ConcurrentTestModuleMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10319/root/trunk/source/core/src/test/java/org/marketcetera/module/ConcurrentTestModuleMXBean.java
+END
+ConcurrentTestModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10355/root/trunk/source/core/src/test/java/org/marketcetera/module/ConcurrentTestModule.java
+END
+MultipleModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/MultipleModuleFactory.java
+END
+JMXTestModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/JMXTestModuleFactory.java
+END
+IDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/IDTest.java
+END
+PropertiesConfigurationProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/PropertiesConfigurationProviderTest.java
+END
+SingleParmModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/SingleParmModuleFactory.java
+END
+MultipleModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/MultipleModule.java
+END
+JMXIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/JMXIntegrationTest.java
+END
+ModuleTestClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/ModuleTestClassLoader.java
+END
+ComplexModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/ComplexModuleFactory.java
+END
+ConfigurationProviderFactoryMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/ConfigurationProviderFactoryMXBean.java
+END
+EmitterModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/EmitterModuleFactory.java
+END
+SingletonModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9860/root/trunk/source/core/src/test/java/org/marketcetera/module/SingletonModule.java
+END
+ConcurrentTestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10951/root/trunk/source/core/src/test/java/org/marketcetera/module/ConcurrentTestFactory.java
+END
+ConfigurationProviderTestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/ConfigurationProviderTestFactory.java
+END
+SinkModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10592/root/trunk/source/core/src/test/java/org/marketcetera/module/SinkModuleTest.java
+END
+StringToTypeConvertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/StringToTypeConvertTest.java
+END
+ProcessorModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/ProcessorModuleFactory.java
+END
+EmitterModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10591/root/trunk/source/core/src/test/java/org/marketcetera/module/EmitterModule.java
+END
+CopierModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10239/root/trunk/source/core/src/test/java/org/marketcetera/module/CopierModuleFactory.java
+END
+URNValidationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/module/URNValidationTest.java
+END
+ManagerStopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10254/root/trunk/source/core/src/test/java/org/marketcetera/module/ManagerStopTest.java
+END
+DynamicBeanModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/module/DynamicBeanModule.java
+END
+DynamicResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10714/root/trunk/source/core/src/test/java/org/marketcetera/module/DynamicResourceLoader.java
+END
+ProcessorModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10280/root/trunk/source/core/src/test/java/org/marketcetera/module/ProcessorModule.java
+END
+ModuleStateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10280/root/trunk/source/core/src/test/java/org/marketcetera/module/ModuleStateTest.java
+END
+CopierModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10591/root/trunk/source/core/src/test/java/org/marketcetera/module/CopierModule.java
+END
+MockConfigProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/module/MockConfigProvider.java
+END
+ProviderLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10980/root/trunk/source/core/src/test/java/org/marketcetera/module/ProviderLoadTest.java
+END
+ModuleURNXmlAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/module/ModuleURNXmlAdapterTest.java
+END

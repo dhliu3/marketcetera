@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/messagehistory
+END
+FIXStringMatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10808/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/messagehistory/FIXStringMatcherTest.java
+END
+FIXRegexMatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10808/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/messagehistory/FIXRegexMatcherTest.java
+END
+FIXMatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/messagehistory/FIXMatcherTest.java
+END

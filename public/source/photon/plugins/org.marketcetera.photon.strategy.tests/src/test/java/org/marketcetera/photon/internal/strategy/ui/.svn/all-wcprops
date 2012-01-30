@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/ui
+END
+NewJavaStrategyWizardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/ui/NewJavaStrategyWizardTest.java
+END
+NewRubyStrategyWizardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/ui/NewRubyStrategyWizardTest.java
+END
+UndeployDeleteParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/ui/UndeployDeleteParticipantTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/ui/MessagesTest.java
+END
+AbstractNewStrategyWizardTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/ui/AbstractNewStrategyWizardTestBase.java
+END

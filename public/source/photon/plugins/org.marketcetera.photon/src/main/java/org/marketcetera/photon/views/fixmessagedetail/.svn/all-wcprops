@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/10367/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/fixmessagedetail
+END
+IFIXMessageDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/fixmessagedetail/IFIXMessageDetail.java
+END
+FIXMessageDetailLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/fixmessagedetail/FIXMessageDetailLabelProvider.java
+END
+FIXMessageDetailView.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10367/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/fixmessagedetail/FIXMessageDetailView.java
+END
+FIXMessageDetailColumnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/fixmessagedetail/FIXMessageDetailColumnType.java
+END
+FIXMessageDetailTableRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/fixmessagedetail/FIXMessageDetailTableRow.java
+END

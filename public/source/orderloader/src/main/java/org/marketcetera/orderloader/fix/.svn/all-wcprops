@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10850/root/trunk/source/orderloader/src/main/java/org/marketcetera/orderloader/fix
+END
+FIXProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10231/root/trunk/source/orderloader/src/main/java/org/marketcetera/orderloader/fix/FIXProcessor.java
+END
+CustomField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10227/root/trunk/source/orderloader/src/main/java/org/marketcetera/orderloader/fix/CustomField.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10850/root/trunk/source/orderloader/src/main/java/org/marketcetera/orderloader/fix/package.html
+END

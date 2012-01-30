@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/message_logs
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/message_logs/list.rhtml
+END
+show_unparseable_msg.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/message_logs/show_unparseable_msg.rhtml
+END

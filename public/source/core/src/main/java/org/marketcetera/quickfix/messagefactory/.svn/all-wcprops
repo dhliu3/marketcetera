@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory
+END
+FIXMessageAugmentor_40.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/9972/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/FIXMessageAugmentor_40.java
+END
+FIXMessageAugmentor_41.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/FIXMessageAugmentor_41.java
+END
+SystemMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/SystemMessageFactory.java
+END
+FIXMessageAugmentor_42.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/FIXMessageAugmentor_42.java
+END
+FIXMessageAugmentor_43.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/FIXMessageAugmentor_43.java
+END
+FIXMessageAugmentor_44.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/FIXMessageAugmentor_44.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/package-info.java
+END
+NoOpFIXMessageAugmentor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/NoOpFIXMessageAugmentor.java
+END
+FIXMessageAugmentor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/messagefactory/FIXMessageAugmentor.java
+END

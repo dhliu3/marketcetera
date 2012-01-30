@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10885/root/trunk/source/strategyagent/src/test/cmd_exec/conf
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10885/root/trunk/source/strategyagent/src/test/cmd_exec/conf/default.properties
+END
+user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10885/root/trunk/source/strategyagent/src/test/cmd_exec/conf/user.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10844/root/trunk/source/strategyagent/src/test/cmd_exec/conf/log4j.properties
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser
+END
+IDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/IDataParser.java
+END
+IDataParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/IDataParserContext.java
+END
+DataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/DataParser.java
+END
+NonDisposableDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/NonDisposableDataParser.java
+END
+CompositeDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/CompositeDataParser.java
+END
+AbstractDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/AbstractDataParser.java
+END
+DisposableDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/DisposableDataParser.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/10517/root/trunk/source/ors/src/main/sample_data/conf/messaging
+END
+broker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10517/root/trunk/source/ors/src/main/sample_data/conf/messaging/broker.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10264/root/trunk/source/ors/src/main/sample_data/conf/messaging/main.xml
+END
+login.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10298/root/trunk/source/ors/src/main/sample_data/conf/messaging/login.config
+END
+client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10264/root/trunk/source/ors/src/main/sample_data/conf/messaging/client.xml
+END

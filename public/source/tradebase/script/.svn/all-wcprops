@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/10848/root/trunk/source/tradebase/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/10848/root/trunk/source/tradebase/script/console
+END
+breakpointer
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10848/root/trunk/source/tradebase/script/breakpointer
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10848/root/trunk/source/tradebase/script/server
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/10848/root/trunk/source/tradebase/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10848/root/trunk/source/tradebase/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10848/root/trunk/source/tradebase/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10848/root/trunk/source/tradebase/script/generate
+END
+poller
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10848/root/trunk/source/tradebase/script/poller
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10848/root/trunk/source/tradebase/script/plugin
+END

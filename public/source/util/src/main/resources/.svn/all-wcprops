@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10690/root/trunk/source/util/src/main/resources
+END
+util_ws_stateful_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10229/root/trunk/source/util/src/main/resources/util_ws_stateful_messages.properties
+END
+util_auth_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10148/root/trunk/source/util/src/main/resources/util_auth_messages.properties
+END
+util_spring_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10229/root/trunk/source/util/src/main/resources/util_spring_messages.properties
+END
+util_ws_tags_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10229/root/trunk/source/util/src/main/resources/util_ws_tags_messages.properties
+END
+util_log_messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10603/root/trunk/source/util/src/main/resources/util_log_messages_fr.properties
+END
+util_l10n_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10690/root/trunk/source/util/src/main/resources/util_l10n_messages.properties
+END
+util_ws_wrappers_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10621/root/trunk/source/util/src/main/resources/util_ws_wrappers_messages.properties
+END
+util_file_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10148/root/trunk/source/util/src/main/resources/util_file_messages.properties
+END
+util_ws_stateless_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10229/root/trunk/source/util/src/main/resources/util_ws_stateless_messages.properties
+END
+util_log_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10603/root/trunk/source/util/src/main/resources/util_log_messages.properties
+END
+util_quickfix_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10229/root/trunk/source/util/src/main/resources/util_quickfix_messages.properties
+END
+util_exec_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10148/root/trunk/source/util/src/main/resources/util_exec_messages.properties
+END
+util_unicode_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10148/root/trunk/source/util/src/main/resources/util_unicode_messages.properties
+END
+util_except_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10148/root/trunk/source/util/src/main/resources/util_except_messages.properties
+END
+util_misc_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10148/root/trunk/source/util/src/main/resources/util_misc_messages.properties
+END

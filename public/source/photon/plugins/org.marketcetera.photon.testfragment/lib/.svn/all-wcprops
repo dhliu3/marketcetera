@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10620/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/lib
+END
+required.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10620/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/lib/required.rb
+END
+test_script.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10620/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/lib/test_script.rb
+END
+requiring.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10620/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/lib/requiring.rb
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10395/root/trunk/source/modules/remote/receiver/src/main/resources/META-INF/services
+END
+org.marketcetera.module.ModuleFactory
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/10395/root/trunk/source/modules/remote/receiver/src/main/resources/META-INF/services/org.marketcetera.module.ModuleFactory
+END

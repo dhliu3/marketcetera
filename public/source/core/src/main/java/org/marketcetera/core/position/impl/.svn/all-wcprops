@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl
+END
+PositionKeyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10865/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionKeyImpl.java
+END
+MultiplierCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10886/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/MultiplierCalculator.java
+END
+FuturePositionKeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/11150/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/FuturePositionKeyComparator.java
+END
+PositionMetricsCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10804/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionMetricsCalculator.java
+END
+PositionKeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionKeyComparator.java
+END
+EquityPositionKeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/EquityPositionKeyComparator.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10804/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/Messages.java
+END
+SummaryRowUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10495/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/SummaryRowUpdater.java
+END
+PositionEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10875/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionEngineImpl.java
+END
+PositionMetricsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10495/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionMetricsImpl.java
+END
+PositionRowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10875/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionRowImpl.java
+END
+PositionRowUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10875/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionRowUpdater.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10492/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/package-info.java
+END
+GroupingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10551/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/GroupingList.java
+END
+PositionMetricsCalculatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/10804/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/PositionMetricsCalculatorImpl.java
+END
+OptionPositionKeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/OptionPositionKeyComparator.java
+END
+InstrumentPositionKeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/core/position/impl/InstrumentPositionKeyComparator.java
+END

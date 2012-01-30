@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 18
+*~
+#*#
+*$py.class
+
+K 13
+svn:mergeinfo
+V 845
+/root/branches/anshul/dotnet/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera:10292-10295
+/root/branches/colin/fortum/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera:10957-11005
+/root/branches/will/messagehistory/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera:10075-10097
+/root/branches/will/options/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera:10851-10874
+/root/branches/will/strategy/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera:10011,10018,10021-10026,10032-10035,10050-10055
+/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera:10865-10870*
+END

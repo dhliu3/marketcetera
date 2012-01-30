@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10658/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags
+END
+SessionIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/SessionIdTest.java
+END
+NodeIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/NodeIdTest.java
+END
+VersionIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10658/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/VersionIdTest.java
+END
+ValidSessionTagFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10388/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/ValidSessionTagFilterTest.java
+END
+TagTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/TagTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/MessagesTest.java
+END
+NonNullTagFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/NonNullTagFilterTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/TestMessages.java
+END
+PassThruTagFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/PassThruTagFilterTest.java
+END
+TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/TagTest.java
+END
+EqualsTagFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/EqualsTagFilterTest.java
+END
+TagFilterTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/TagFilterTestBase.java
+END
+AppIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/tags/AppIdTest.java
+END

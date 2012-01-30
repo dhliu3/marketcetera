@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dom
+END
+HelloWorld.xswt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/10848/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dom/HelloWorld.xswt
+END
+TestDOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dom/TestDOM.java
+END
+DOMLayoutBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dom/DOMLayoutBuilder.java
+END

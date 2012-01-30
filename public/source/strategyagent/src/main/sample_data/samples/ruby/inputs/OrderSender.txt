@@ -1,0 +1,11 @@
+#
+# author:anshul@marketcetera.com
+# since 1.0.0
+# version: $Id: OrderSender.txt 10594 2009-06-09 23:02:22Z anshul $
+#
+# Create the Order Sender strategy
+createModule;metc:strategy:system;orderSender,OrderSender,RUBY,samples/ruby/scripts/order_sender.rb,,true,metc:sink:system
+# Start the market data module
+startModule;metc:mdata:marketcetera:single
+# Start the strategy
+startModule;metc:strategy:system:orderSender

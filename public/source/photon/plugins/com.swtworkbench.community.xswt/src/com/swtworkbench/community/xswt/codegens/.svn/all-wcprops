@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens
+END
+ImageCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/ImageCodeGenerator.java
+END
+ObjectStubCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/ObjectStubCodeGenerator.java
+END
+RectangleCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/RectangleCodeGenerator.java
+END
+StringArrayCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/StringArrayCodeGenerator.java
+END
+FontCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/FontCodeGenerator.java
+END
+StringCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/StringCodeGenerator.java
+END
+IntArrayCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/IntArrayCodeGenerator.java
+END
+PointCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/PointCodeGenerator.java
+END
+RGBCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/RGBCodeGenerator.java
+END
+CharacterCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/codegens/CharacterCodeGenerator.java
+END

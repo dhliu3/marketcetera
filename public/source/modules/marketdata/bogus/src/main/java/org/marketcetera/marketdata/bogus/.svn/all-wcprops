@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11025/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus
+END
+BogusFeedEventTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/11025/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedEventTranslator.java
+END
+BogusFeedCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/10267/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedCredentials.java
+END
+BogusFeedModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10578/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedModuleFactory.java
+END
+BogusFeedMessageTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10930/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedMessageTranslator.java
+END
+BogusFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/11022/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeed.java
+END
+BogusFeedToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/10039/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedToken.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10620/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/package-info.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10904/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/Messages.java
+END
+BogusFeedModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/10578/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedModule.java
+END
+BogusFeedFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/10039/root/trunk/source/modules/marketdata/bogus/src/main/java/org/marketcetera/marketdata/bogus/BogusFeedFactory.java
+END

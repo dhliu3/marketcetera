@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types
+END
+InnerObjectHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/InnerObjectHolder.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10561/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/Service.java
+END
+ByteHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/ByteHolder.java
+END
+InnerObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/InnerObject.java
+END
+FloatHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/FloatHolder.java
+END
+StringHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/StringHolder.java
+END
+WrappableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/WrappableObject.java
+END
+CompSerWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/CompSerWrapperHolder.java
+END
+DoubleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/DoubleHolder.java
+END
+GenericHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/GenericHolder.java
+END
+DateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/DateHolder.java
+END
+DateWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/DateWrapperHolder.java
+END
+BooleanHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/BooleanHolder.java
+END
+BigIntegerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/BigIntegerHolder.java
+END
+BigDecimalHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/BigDecimalHolder.java
+END
+TypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10561/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/TypeTest.java
+END
+ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10561/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/ServiceImpl.java
+END
+SerWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/SerWrapperHolder.java
+END
+EnumObjectHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/EnumObjectHolder.java
+END
+CharacterHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/CharacterHolder.java
+END
+IntegerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/IntegerHolder.java
+END
+EnumObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/EnumObject.java
+END
+LongHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/LongHolder.java
+END
+ShortHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/ShortHolder.java
+END
+LocaleWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10600/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/types/LocaleWrapperHolder.java
+END

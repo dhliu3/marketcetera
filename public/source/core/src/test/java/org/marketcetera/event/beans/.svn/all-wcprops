@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/16019/root/trunk/source/core/src/test/java/org/marketcetera/event/beans
+END
+FutureBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/16019/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/FutureBeanTest.java
+END
+MarketDataBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10980/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/MarketDataBeanTest.java
+END
+QuoteBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10980/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/QuoteBeanTest.java
+END
+MarketstatBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/MarketstatBeanTest.java
+END
+AbstractEventBeanTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/AbstractEventBeanTestBase.java
+END
+EventBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/EventBeanTest.java
+END
+DividendBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10980/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/DividendBeanTest.java
+END
+OptionBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/event/beans/OptionBeanTest.java
+END

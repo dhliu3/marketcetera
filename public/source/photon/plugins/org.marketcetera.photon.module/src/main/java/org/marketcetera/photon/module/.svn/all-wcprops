@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module
+END
+IModuleAttributeSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10387/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/IModuleAttributeSupport.java
+END
+ISinkDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/ISinkDataManager.java
+END
+ModuleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/ModuleSupport.java
+END
+IDataFlowLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/IDataFlowLabelProvider.java
+END
+ISinkDataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/10492/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/ISinkDataHandler.java
+END
+IModuleAttributeDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10319/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/IModuleAttributeDefaults.java
+END
+SinkDataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/10492/root/trunk/source/photon/plugins/org.marketcetera.photon.module/src/main/java/org/marketcetera/photon/module/SinkDataHandler.java
+END

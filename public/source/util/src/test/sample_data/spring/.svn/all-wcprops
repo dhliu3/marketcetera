@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/spring
+END
+spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/9237/root/trunk/source/util/src/test/sample_data/spring/spring.xml
+END
+spring_override.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/spring/spring_override.properties
+END
+spring.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/spring/spring.properties
+END

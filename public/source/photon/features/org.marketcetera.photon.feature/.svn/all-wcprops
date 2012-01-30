@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/16058/root/trunk/source/photon/features/org.marketcetera.photon.feature
+END
+initWorkspace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10893/root/trunk/source/photon/features/org.marketcetera.photon.feature/initWorkspace.xml
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10298/root/trunk/source/photon/features/org.marketcetera.photon.feature/config.ini
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10848/root/trunk/source/photon/features/org.marketcetera.photon.feature/.project
+END
+feature.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/15831/root/trunk/source/photon/features/org.marketcetera.photon.feature/feature.properties
+END
+photon.product
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/15831/root/trunk/source/photon/features/org.marketcetera.photon.feature/photon.product
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10980/root/trunk/source/photon/features/org.marketcetera.photon.feature/build.properties
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/16058/root/trunk/source/photon/features/org.marketcetera.photon.feature/feature.xml
+END

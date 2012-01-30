@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/sub_accounts
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/sub_accounts/list.rhtml
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/sub_accounts/show.rhtml
+END
+_sub_account_list_display.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/sub_accounts/_sub_account_list_display.rhtml
+END

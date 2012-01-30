@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10850/root/trunk/source/core/src/test/java/org/marketcetera/persist/example
+END
+AuthorizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/AuthorizationTest.java
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/Authorization.java
+END
+MultiAuthorizationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/MultiAuthorizationQuery.java
+END
+SingleUserQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/SingleUserQuery.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9513/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/Messages.java
+END
+SummaryGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/SummaryGroup.java
+END
+Setting.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/Setting.java
+END
+AuthorizationGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/AuthorizationGroupTest.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/User.java
+END
+UserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/UserTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10850/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/package.html
+END
+MultiUserQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10393/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/MultiUserQuery.java
+END
+SingleGroupQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/SingleGroupQuery.java
+END
+SingleAuthorizationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/SingleAuthorizationQuery.java
+END
+UserGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/UserGroupTest.java
+END
+SummaryUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/SummaryUser.java
+END
+GroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/GroupTest.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9475/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/Group.java
+END
+MultiGroupQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/persist/example/MultiGroupQuery.java
+END

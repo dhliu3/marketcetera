@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10151/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/resources
+END
+photon_notification_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/10151/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/resources/photon_notification_messages.properties
+END
+photon_notification_preferences_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/10151/root/trunk/source/photon/plugins/org.marketcetera.photon.notification/src/main/resources/photon_notification_preferences_messages.properties
+END

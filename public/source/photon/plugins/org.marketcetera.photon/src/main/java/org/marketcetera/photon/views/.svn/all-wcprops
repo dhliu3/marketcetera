@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views
+END
+CopyMessagesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/CopyMessagesAction.java
+END
+OptionToMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OptionToMemento.java
+END
+IMSymbolListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10808/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/IMSymbolListener.java
+END
+FutureToMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FutureToMemento.java
+END
+FillsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/10887/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FillsView.java
+END
+StockOrderTicketModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/StockOrderTicketModel.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/Messages.java
+END
+MarketDataView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/MarketDataView.java
+END
+EquityToMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/EquityToMemento.java
+END
+FIXMessagesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FIXMessagesView.java
+END
+WebBrowserView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/WebBrowserView.java
+END
+StockOrderTicketView.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/StockOrderTicketView.java
+END
+InstrumentFromMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/InstrumentFromMemento.java
+END
+IOptionOrderTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/IOptionOrderTicket.java
+END
+IFutureOrderTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/IFutureOrderTicket.java
+END
+StockOrderTicketController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/StockOrderTicketController.java
+END
+IOrderTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/IOrderTicket.java
+END
+IStockOrderTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/IStockOrderTicket.java
+END
+MessagesViewBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/MessagesViewBase.java
+END
+AbstractFIXMessagesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/10605/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/AbstractFIXMessagesView.java
+END
+InstrumentToMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/InstrumentToMemento.java
+END
+OrderTicketModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10922/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OrderTicketModel.java
+END
+XSWTView.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10551/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/XSWTView.java
+END
+OptionOrderTicketView.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10900/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OptionOrderTicketView.java
+END
+FutureOrderTicketView.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FutureOrderTicketView.java
+END
+OrderTicketView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10922/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OrderTicketView.java
+END
+OpenOrdersView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OpenOrdersView.java
+END
+OptionOrderTicketController.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OptionOrderTicketController.java
+END
+AddSymbolAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10808/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/AddSymbolAction.java
+END
+CustomField.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/9451/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/CustomField.java
+END
+FutureOrderTicketController.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FutureOrderTicketController.java
+END
+OptionFromMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OptionFromMemento.java
+END
+FutureFromMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FutureFromMemento.java
+END
+OrderTicketController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OrderTicketController.java
+END
+SecondaryIDCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/7186/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/SecondaryIDCreator.java
+END
+MarketDataViewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/MarketDataViewItem.java
+END
+AveragePriceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/AveragePriceView.java
+END
+OptionOrderTicketModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/OptionOrderTicketModel.java
+END
+EquityFromMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/EquityFromMemento.java
+END
+FutureOrderTicketModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/FutureOrderTicketModel.java
+END
+IOrderTicketController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/IOrderTicketController.java
+END
+MarketDepthMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10808/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/views/MarketDepthMenu.java
+END

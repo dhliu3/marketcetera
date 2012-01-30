@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui
+END
+IdentityComparer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/IdentityComparer.java
+END
+LocalizedLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/LocalizedLabel.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/10780/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/Messages.java
+END
+ColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/ColorManager.java
+END
+CommonsUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/CommonsUI.java
+END
+JFaceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/JFaceUtils.java
+END
+EclipseImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/EclipseImages.java
+END
+LocalizedLabelContainerClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/LocalizedLabelContainerClassInfo.java
+END
+DisplayThreadExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/DisplayThreadExecutor.java
+END
+SWTUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/SWTUtils.java
+END

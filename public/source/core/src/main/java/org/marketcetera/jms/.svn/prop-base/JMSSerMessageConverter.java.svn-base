@@ -1,0 +1,14 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 277
+/root/branches/will/messagehistory/source/client/src/main/java/org/marketcetera/client/JMSMessageConverter.java:10075-10097
+/root/branches/will/strategy/source/client/src/main/java/org/marketcetera/client/JMSMessageConverter.java:10011,10018,10021-10026,10032-10035,10050-10055
+K 13
+svn:mime-type
+V 10
+text/plain
+END

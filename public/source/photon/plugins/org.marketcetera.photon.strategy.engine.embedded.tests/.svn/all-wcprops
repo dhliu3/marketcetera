@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/15806/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/.classpath
+END
+EmbeddedEngineSuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/EmbeddedEngineSuite.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10787/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/build.properties
+END

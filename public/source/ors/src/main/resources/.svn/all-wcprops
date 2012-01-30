@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/16031/root/trunk/source/ors/src/main/resources
+END
+ors_info_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10885/root/trunk/source/ors/src/main/resources/ors_info_messages.properties
+END
+ors_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/15831/root/trunk/source/ors/src/main/resources/ors_messages.properties
+END
+ors_history_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10936/root/trunk/source/ors/src/main/resources/ors_history_messages.properties
+END
+ors_config_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10936/root/trunk/source/ors/src/main/resources/ors_config_messages.properties
+END
+ors_mbeans_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10231/root/trunk/source/ors/src/main/resources/ors_mbeans_messages.properties
+END
+ors_brokers_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10480/root/trunk/source/ors/src/main/resources/ors_brokers_messages.properties
+END
+ors_security_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10507/root/trunk/source/ors/src/main/resources/ors_security_messages.properties
+END
+ors_filters_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/16031/root/trunk/source/ors/src/main/resources/ors_filters_messages.properties
+END
+ors_ws_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10896/root/trunk/source/ors/src/main/resources/ors_ws_messages.properties
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/11031/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources
+END
+photon-log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/11031/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/photon-log4j.properties
+END
+photon_fix_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/photon_fix_messages.properties
+END
+stock_order_ticket.xswt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/stock_order_ticket.xswt
+END
+photon_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/photon_messages.properties
+END
+option_order_ticket.xswt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/option_order_ticket.xswt
+END
+future_order_ticket.xswt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10952/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/future_order_ticket.xswt
+END
+java.util.logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10151/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/java.util.logging.properties
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/auth
+END
+auth_none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/9340/root/trunk/source/util/src/test/sample_data/auth/auth_none.xml
+END
+auth_blank.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/auth/auth_blank.properties
+END
+auth_pwd.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/auth/auth_pwd.properties
+END
+auth_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10079/root/trunk/source/util/src/test/sample_data/auth/auth_blank.xml
+END
+auth_both.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/auth/auth_both.properties
+END
+auth_pwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/9340/root/trunk/source/util/src/test/sample_data/auth/auth_pwd.xml
+END
+auth_user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/auth/auth_user.properties
+END
+auth_none.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10148/root/trunk/source/util/src/test/sample_data/auth/auth_none.properties
+END
+auth_both.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10079/root/trunk/source/util/src/test/sample_data/auth/auth_both.xml
+END
+auth_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10079/root/trunk/source/util/src/test/sample_data/auth/auth_user.xml
+END

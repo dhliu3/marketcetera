@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/15871/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history
+END
+EquityExecReportSummaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/EquityExecReportSummaryTest.java
+END
+OptionPositionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10842/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/OptionPositionsTest.java
+END
+EquityReportsHistoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/EquityReportsHistoryTest.java
+END
+DistinctInstrumentPositionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/DistinctInstrumentPositionsTest.java
+END
+PositionsTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/15871/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/PositionsTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10485/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/MessagesTest.java
+END
+OptionExecReportSummaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/OptionExecReportSummaryTest.java
+END
+EquityPositionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10865/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/EquityPositionsTest.java
+END
+ReportHistoryTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10842/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/ReportHistoryTestBase.java
+END
+ExecReportSummaryTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/15871/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/ExecReportSummaryTestBase.java
+END
+OptionReportsHistoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/OptionReportsHistoryTest.java
+END
+ReportsTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/15871/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/ReportsTestBase.java
+END
+PersistentReportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10936/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/PersistentReportTest.java
+END
+InstrumentSummaryFieldsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/history/InstrumentSummaryFieldsTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy
+END
+TradeSuggestionManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10643/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/TradeSuggestionManagerTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/MessagesTest.java
+END
+StrategyEnginesSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/StrategyEnginesSupportTest.java
+END
+StrategyTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.tests/src/test/java/org/marketcetera/photon/internal/strategy/StrategyTemplateTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl
+END
+accounts.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/accounts.yml
+END
+trades.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/trades.yml
+END
+m_symbols.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/m_symbols.yml
+END
+postings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/postings.yml
+END
+equities.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/equities.yml
+END
+sub_accounts.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/sub_accounts.yml
+END
+sub_account_types.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/sub_account_types.yml
+END
+journals.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/journals.yml
+END
+marks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/pnl/marks.yml
+END

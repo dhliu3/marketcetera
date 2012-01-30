@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10517/root/trunk/source/ors/src/test/cmd_exec/conf/messaging
+END
+broker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10517/root/trunk/source/ors/src/test/cmd_exec/conf/messaging/broker.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10264/root/trunk/source/ors/src/test/cmd_exec/conf/messaging/main.xml
+END
+login.config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10298/root/trunk/source/ors/src/test/cmd_exec/conf/messaging/login.config
+END
+client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10264/root/trunk/source/ors/src/test/cmd_exec/conf/messaging/client.xml
+END

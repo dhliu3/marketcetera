@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/16025/root/trunk/source/modules/marketdata/csv/src/test/java/org/marketcetera/marketdata/csv
+END
+CSVFeedModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/16025/root/trunk/source/modules/marketdata/csv/src/test/java/org/marketcetera/marketdata/csv/CSVFeedModuleTest.java
+END
+MockCSVFeedEventTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/11150/root/trunk/source/modules/marketdata/csv/src/test/java/org/marketcetera/marketdata/csv/MockCSVFeedEventTranslator.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10939/root/trunk/source/modules/marketdata/csv/src/test/java/org/marketcetera/marketdata/csv/MessagesTest.java
+END
+BasicCSVFeedEventTranslatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/15959/root/trunk/source/modules/marketdata/csv/src/test/java/org/marketcetera/marketdata/csv/BasicCSVFeedEventTranslatorTest.java
+END
+CSVFeedCredentialsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/16025/root/trunk/source/modules/marketdata/csv/src/test/java/org/marketcetera/marketdata/csv/CSVFeedCredentialsTest.java
+END

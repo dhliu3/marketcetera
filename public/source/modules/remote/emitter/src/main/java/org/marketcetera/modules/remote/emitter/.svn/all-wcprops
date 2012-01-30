@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10885/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter
+END
+EmitterModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/10710/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/EmitterModule.java
+END
+RemoteDataEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/10885/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/RemoteDataEmitter.java
+END
+EmitterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10578/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/EmitterFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/10492/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/package-info.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10710/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/Messages.java
+END
+MessagingDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/10710/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/MessagingDelegate.java
+END
+EmitterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10885/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/EmitterAdapter.java
+END
+EmitterModuleMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/10492/root/trunk/source/modules/remote/emitter/src/main/java/org/marketcetera/modules/remote/emitter/EmitterModuleMXBean.java
+END

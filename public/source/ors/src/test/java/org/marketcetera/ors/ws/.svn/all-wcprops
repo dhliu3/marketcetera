@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10912/root/trunk/source/ors/src/test/java/org/marketcetera/ors/ws
+END
+DBAuthenticatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10912/root/trunk/source/ors/src/test/java/org/marketcetera/ors/ws/DBAuthenticatorTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10229/root/trunk/source/ors/src/test/java/org/marketcetera/ors/ws/MessagesTest.java
+END

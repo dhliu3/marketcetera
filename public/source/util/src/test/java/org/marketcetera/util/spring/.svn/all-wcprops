@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/spring
+END
+SpringUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9237/root/trunk/source/util/src/test/java/org/marketcetera/util/spring/SpringUtilsTest.java
+END
+LazyBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/spring/LazyBeanTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9403/root/trunk/source/util/src/test/java/org/marketcetera/util/spring/MessagesTest.java
+END
+SystemPropertiesSetterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9212/root/trunk/source/util/src/test/java/org/marketcetera/util/spring/SystemPropertiesSetterTest.java
+END

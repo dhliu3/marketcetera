@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/10129/root/trunk/source/client/src/test/sample_data/inputs
+END
+options.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/10129/root/trunk/source/client/src/test/sample_data/inputs/options.txt
+END
+equity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10129/root/trunk/source/client/src/test/sample_data/inputs/equity.txt
+END

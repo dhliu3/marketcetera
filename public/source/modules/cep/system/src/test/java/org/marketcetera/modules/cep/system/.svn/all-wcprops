@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11022/root/trunk/source/modules/cep/system/src/test/java/org/marketcetera/modules/cep/system
+END
+CEPTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/11022/root/trunk/source/modules/cep/system/src/test/java/org/marketcetera/modules/cep/system/CEPTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10127/root/trunk/source/modules/cep/system/src/test/java/org/marketcetera/modules/cep/system/MessagesTest.java
+END
+CEPSystemProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10833/root/trunk/source/modules/cep/system/src/test/java/org/marketcetera/modules/cep/system/CEPSystemProcessorTest.java
+END

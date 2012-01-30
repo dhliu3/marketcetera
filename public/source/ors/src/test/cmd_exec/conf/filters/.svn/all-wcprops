@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/10319/root/trunk/source/ors/src/test/cmd_exec/conf/filters
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10319/root/trunk/source/ors/src/test/cmd_exec/conf/filters/main.xml
+END
+allowed_orders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10319/root/trunk/source/ors/src/test/cmd_exec/conf/filters/allowed_orders.xml
+END
+supported_messages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10319/root/trunk/source/ors/src/test/cmd_exec/conf/filters/supported_messages.xml
+END

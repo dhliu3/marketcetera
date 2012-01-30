@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10951/root/trunk/source/ors/src/main/resources/META-INF/services
+END
+org.marketcetera.ors.history.InstrumentSummaryFields
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/10951/root/trunk/source/ors/src/main/resources/META-INF/services/org.marketcetera.ors.history.InstrumentSummaryFields
+END

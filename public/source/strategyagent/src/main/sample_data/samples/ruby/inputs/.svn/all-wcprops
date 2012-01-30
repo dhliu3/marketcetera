@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10901/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs
+END
+ProcessData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10594/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/ProcessData.txt
+END
+HelloWorld.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10594/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/HelloWorld.txt
+END
+OrderSender.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10594/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/OrderSender.txt
+END
+MarketData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10901/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/MarketData.txt
+END
+MovingAverages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10594/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/MovingAverages.txt
+END
+OrderSlicer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/OrderSlicer.txt
+END
+VWAPStrategy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/inputs/VWAPStrategy.txt
+END

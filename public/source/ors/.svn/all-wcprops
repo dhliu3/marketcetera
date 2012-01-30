@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/16053/root/trunk/source/ors
+END
+ORS-DBInit.launch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/10848/root/trunk/source/ors/ORS-DBInit.launch
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/16053/root/trunk/source/ors/pom.xml
+END
+ORS.launch
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/10848/root/trunk/source/ors/ORS.launch
+END
+assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/10176/root/trunk/source/ors/assembly.xml
+END

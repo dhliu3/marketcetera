@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10710/root/trunk/source/modules/remote/emitter/src/main/resources
+END
+remote-emitter-jms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10492/root/trunk/source/modules/remote/emitter/src/main/resources/remote-emitter-jms.xml
+END
+modules_remote_emitter_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10710/root/trunk/source/modules/remote/emitter/src/main/resources/modules_remote_emitter_messages.properties
+END

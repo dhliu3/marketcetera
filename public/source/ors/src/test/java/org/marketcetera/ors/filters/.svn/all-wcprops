@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/16041/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters
+END
+TransactionTimeInsertOrderModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10176/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/TransactionTimeInsertOrderModifierTest.java
+END
+FieldRemoverMessageModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/16041/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/FieldRemoverMessageModifierTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10229/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/MessagesTest.java
+END
+DefaultMessageModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10907/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/DefaultMessageModifierTest.java
+END
+SimpleMessageModifierManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10908/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/SimpleMessageModifierManager.java
+END
+FieldDuplicatorMessageModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10176/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/FieldDuplicatorMessageModifierTest.java
+END
+MessageRouteManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10808/root/trunk/source/ors/src/test/java/org/marketcetera/ors/filters/MessageRouteManagerTest.java
+END

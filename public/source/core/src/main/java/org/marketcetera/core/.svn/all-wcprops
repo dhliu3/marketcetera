@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/15955/root/trunk/source/core/src/main/java/org/marketcetera/core
+END
+ApplicationMBeanBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/ApplicationMBeanBase.java
+END
+BigDecimalUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/9470/root/trunk/source/core/src/main/java/org/marketcetera/core/BigDecimalUtils.java
+END
+OffsetClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/OffsetClock.java
+END
+InMemoryIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/InMemoryIDFactory.java
+END
+IFeedComponentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/IFeedComponentListener.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10842/root/trunk/source/core/src/main/java/org/marketcetera/core/Messages.java
+END
+CoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/9477/root/trunk/source/core/src/main/java/org/marketcetera/core/CoreException.java
+END
+AccountID.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/AccountID.java
+END
+ApplicationVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/15955/root/trunk/source/core/src/main/java/org/marketcetera/core/ApplicationVersion.java
+END
+MMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/MMapEntry.java
+END
+NoMoreIDsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/NoMoreIDsException.java
+END
+ConfigFileLoadingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/ConfigFileLoadingException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/package-info.java
+END
+NumericStringSortable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9470/root/trunk/source/core/src/main/java/org/marketcetera/core/NumericStringSortable.java
+END
+DelayedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/9470/root/trunk/source/core/src/main/java/org/marketcetera/core/DelayedItem.java
+END
+LockHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/LockHelper.java
+END
+MemoizedHashCombinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/MemoizedHashCombinator.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/Clock.java
+END
+ThreadLocalSimpleDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9470/root/trunk/source/core/src/main/java/org/marketcetera/core/ThreadLocalSimpleDateFormat.java
+END
+PanicError.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/PanicError.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/InitializationException.java
+END
+DatabaseIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10187/root/trunk/source/core/src/main/java/org/marketcetera/core/DatabaseIDFactory.java
+END
+LocalizedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/LocalizedMessage.java
+END
+ClassVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/ClassVersion.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10951/root/trunk/source/core/src/main/java/org/marketcetera/core/Util.java
+END
+DBBackedIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10187/root/trunk/source/core/src/main/java/org/marketcetera/core/DBBackedIDFactory.java
+END
+IDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/IDFactory.java
+END
+BasketID.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/BasketID.java
+END
+ExternalIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10160/root/trunk/source/core/src/main/java/org/marketcetera/core/ExternalIDFactory.java
+END
+InternalID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/InternalID.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10845/root/trunk/source/core/src/main/java/org/marketcetera/core/Pair.java
+END
+ApplicationBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10433/root/trunk/source/core/src/main/java/org/marketcetera/core/ApplicationBase.java
+END

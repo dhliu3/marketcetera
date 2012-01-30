@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/15806/root/trunk/source/saclient
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/10787/root/trunk/source/saclient/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/15806/root/trunk/source/saclient/pom.xml
+END

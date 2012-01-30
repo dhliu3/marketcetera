@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/m_symbols
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/m_symbols/list.rhtml
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/m_symbols/show.rhtml
+END
+_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/m_symbols/_form.rhtml
+END
+edit.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/m_symbols/edit.rhtml
+END
+new.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/m_symbols/new.rhtml
+END

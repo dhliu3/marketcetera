@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10848/root/trunk/source/tradebase/test/fixtures
+END
+accounts.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/accounts.yml
+END
+equity_option_series.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/equity_option_series.yml
+END
+sub_accounts.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/sub_accounts.yml
+END
+equities.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/equities.yml
+END
+currency_pairs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/currency_pairs.yml
+END
+sub_account_types.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/sub_account_types.yml
+END
+id_repository.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/id_repository.yml
+END
+equity_options.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/equity_options.yml
+END
+equity_option_underlyings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/equity_option_underlyings.yml
+END
+journals.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/journals.yml
+END
+currencies.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/currencies.yml
+END
+m_symbols.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/m_symbols.yml
+END
+messages_log.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10848/root/trunk/source/tradebase/test/fixtures/messages_log.yml
+END
+dividends.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/dividends.yml
+END
+marks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/10298/root/trunk/source/tradebase/test/fixtures/marks.yml
+END

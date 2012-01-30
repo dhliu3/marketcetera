@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16
+END
+engine_error.gif
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/engine_error.gif
+END
+strategy_stopped.gif
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/strategy_stopped.gif
+END
+strategy.gif
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/strategy.gif
+END
+strategy_running.gif
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/strategy_running.gif
+END
+engine.gif
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/engine.gif
+END
+engine_connected.gif
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/engine_connected.gif
+END
+engine_disconnected.gif
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/icons/obj16/engine_disconnected.gif
+END

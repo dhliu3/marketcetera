@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades/list.rhtml
+END
+_trade_list_display.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades/_trade_list_display.rhtml
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades/show.rhtml
+END
+_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades/_form.rhtml
+END
+edit.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades/edit.rhtml
+END
+new.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/trades/new.rhtml
+END

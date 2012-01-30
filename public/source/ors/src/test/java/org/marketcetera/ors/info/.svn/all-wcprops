@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info
+END
+NestedInfoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/NestedInfoImplTest.java
+END
+SessionInfoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/SessionInfoImplTest.java
+END
+SystemInfoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/SystemInfoImplTest.java
+END
+ReadWriteInfoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/ReadWriteInfoImplTest.java
+END
+InfoTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/InfoTestBase.java
+END
+RequestInfoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/RequestInfoImplTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/MessagesTest.java
+END
+NameGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/NameGeneratorTest.java
+END
+ReadInfoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/info/ReadInfoImplTest.java
+END

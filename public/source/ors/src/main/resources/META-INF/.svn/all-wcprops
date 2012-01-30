@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/10951/root/trunk/source/ors/src/main/resources/META-INF
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/9496/root/trunk/source/ors/src/main/resources/META-INF/persistence.xml
+END
+metc_version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10483/root/trunk/source/ors/src/main/resources/META-INF/metc_version.properties
+END

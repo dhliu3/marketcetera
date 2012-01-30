@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui
+END
+StrategyEngineStatusDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineStatusDecoratorTest.java
+END
+DeployStrategyWizardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/DeployStrategyWizardTest.java
+END
+StrategyEnginesContentProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/StrategyEnginesContentProviderTest.java
+END
+EMFPropertyListenerCaveatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/EMFPropertyListenerCaveatTest.java
+END
+ScriptSelectionButtonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/ScriptSelectionButtonTest.java
+END
+StrategyEngineUITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineUITest.java
+END
+StrategyEnginesLabelProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/StrategyEnginesLabelProviderTest.java
+END
+AbstractStrategyEnginesSupportTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/AbstractStrategyEnginesSupportTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/MessagesTest.java
+END
+ObservableListTreeContentProviderCaveatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/ObservableListTreeContentProviderCaveatTest.java
+END
+StrategyEngineColorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineColorsTest.java
+END
+AbstractStrategyEnginesSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.tests/src/test/java/org/marketcetera/photon/strategy/engine/ui/AbstractStrategyEnginesSupportTest.java
+END

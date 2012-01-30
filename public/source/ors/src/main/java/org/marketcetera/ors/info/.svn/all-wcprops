@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info
+END
+SessionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/SessionInfo.java
+END
+SystemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/SystemInfo.java
+END
+ReadWriteInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/ReadWriteInfo.java
+END
+RequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/RequestInfo.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/Messages.java
+END
+ReadInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/ReadInfoImpl.java
+END
+InfoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/InfoException.java
+END
+InfoRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/InfoRuntimeException.java
+END
+NestedInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/NestedInfoImpl.java
+END
+SessionInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/SessionInfoImpl.java
+END
+SystemInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/SystemInfoImpl.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/package-info.java
+END
+ReadWriteInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/ReadWriteInfoImpl.java
+END
+RequestInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/RequestInfoImpl.java
+END
+ReadInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/ReadInfo.java
+END
+NameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/info/NameGenerator.java
+END

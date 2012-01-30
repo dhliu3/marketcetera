@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10915/root/trunk/source/util/src/main/java/org/marketcetera/util/file
+END
+FileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10915/root/trunk/source/util/src/main/java/org/marketcetera/util/file/FileType.java
+END
+CloseableRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/CloseableRegistry.java
+END
+CopyBytesUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/CopyBytesUtils.java
+END
+SmartLinksDirectoryWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10905/root/trunk/source/util/src/main/java/org/marketcetera/util/file/SmartLinksDirectoryWalker.java
+END
+CopyCharsUnicodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/CopyCharsUnicodeUtils.java
+END
+ReaderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/ReaderWrapper.java
+END
+Deleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/Deleter.java
+END
+SpecialNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/SpecialNames.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/Messages.java
+END
+CopyCharsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/CopyCharsUtils.java
+END
+InputStreamWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/InputStreamWrapper.java
+END
+OutputStreamWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/OutputStreamWrapper.java
+END
+WriterWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10379/root/trunk/source/util/src/main/java/org/marketcetera/util/file/WriterWrapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10850/root/trunk/source/util/src/main/java/org/marketcetera/util/file/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/emf
+END
+IEMFPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/emf/IEMFPersistence.java
+END
+EMFFilePersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/emf/EMFFilePersistence.java
+END
+ForwardingEObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/emf/ForwardingEObject.java
+END

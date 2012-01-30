@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/notifications
+END
+INotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10324/root/trunk/source/core/src/main/java/org/marketcetera/core/notifications/INotification.java
+END
+NotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9860/root/trunk/source/core/src/main/java/org/marketcetera/core/notifications/NotificationManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/notifications/package-info.java
+END
+Notification.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10324/root/trunk/source/core/src/main/java/org/marketcetera/core/notifications/Notification.java
+END
+INotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/9860/root/trunk/source/core/src/main/java/org/marketcetera/core/notifications/INotificationManager.java
+END

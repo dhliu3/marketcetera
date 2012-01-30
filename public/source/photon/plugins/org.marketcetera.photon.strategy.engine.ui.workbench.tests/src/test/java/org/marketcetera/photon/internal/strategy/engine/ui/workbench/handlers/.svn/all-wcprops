@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers
+END
+StrategyRefreshHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StrategyRefreshHandlerTest.java
+END
+ChangeStrategyHandlerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/ChangeStrategyHandlerTestBase.java
+END
+EngineRefreshHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/EngineRefreshHandlerTest.java
+END
+RestartHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/RestartHandlerTest.java
+END
+StopHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StopHandlerTest.java
+END
+ChangeEngineHandlerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/ChangeEngineHandlerTestBase.java
+END
+StartAllHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StartAllHandlerTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/MessagesTest.java
+END
+DeployHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/DeployHandlerTest.java
+END
+StartHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StartHandlerTest.java
+END
+StopAllHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StopAllHandlerTest.java
+END
+UndeployHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/UndeployHandlerTest.java
+END

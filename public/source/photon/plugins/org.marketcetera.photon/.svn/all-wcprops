@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/16059/root/trunk/source/photon/plugins/org.marketcetera.photon
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon/.project
+END
+plugin_customization.ini
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/plugin_customization.ini
+END
+about.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/15831/root/trunk/source/photon/plugins/org.marketcetera.photon/about.properties
+END
+about.mappings
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/15806/root/trunk/source/photon/plugins/org.marketcetera.photon/about.mappings
+END
+splash.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15831/root/trunk/source/photon/plugins/org.marketcetera.photon/splash.bmp
+END
+about.ini
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10298/root/trunk/source/photon/plugins/org.marketcetera.photon/about.ini
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10584/root/trunk/source/photon/plugins/org.marketcetera.photon/plugin.properties
+END
+splash.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15806/root/trunk/source/photon/plugins/org.marketcetera.photon/splash.xcf
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/build.properties
+END
+build-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/9484/root/trunk/source/photon/plugins/org.marketcetera.photon/build-user.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15831/root/trunk/source/photon/plugins/org.marketcetera.photon/plugin.xml
+END
+splash.pxm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon/splash.pxm
+END

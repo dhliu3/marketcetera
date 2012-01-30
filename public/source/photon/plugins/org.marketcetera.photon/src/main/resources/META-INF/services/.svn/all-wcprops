@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/META-INF/services
+END
+org.marketcetera.photon.views.InstrumentFromMemento
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/META-INF/services/org.marketcetera.photon.views.InstrumentFromMemento
+END
+org.marketcetera.photon.views.InstrumentToMemento
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10951/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/resources/META-INF/services/org.marketcetera.photon.views.InstrumentToMemento
+END

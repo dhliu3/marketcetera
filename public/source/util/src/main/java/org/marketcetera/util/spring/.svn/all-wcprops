@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10850/root/trunk/source/util/src/main/java/org/marketcetera/util/spring
+END
+SpringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10384/root/trunk/source/util/src/main/java/org/marketcetera/util/spring/SpringUtils.java
+END
+LazyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10384/root/trunk/source/util/src/main/java/org/marketcetera/util/spring/LazyBean.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10384/root/trunk/source/util/src/main/java/org/marketcetera/util/spring/Messages.java
+END
+SystemPropertiesSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10384/root/trunk/source/util/src/main/java/org/marketcetera/util/spring/SystemPropertiesSetter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10850/root/trunk/source/util/src/main/java/org/marketcetera/util/spring/package.html
+END

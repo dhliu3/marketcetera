@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10951/root/trunk/source/ors/src/test/sample_data/conf
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10951/root/trunk/source/ors/src/test/sample_data/conf/default.properties
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10850/root/trunk/source/ors/src/test/sample_data/conf/README.html
+END
+exchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/10885/root/trunk/source/ors/src/test/sample_data/conf/exchange.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10936/root/trunk/source/ors/src/test/sample_data/conf/server.xml
+END
+cli.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/cli.xml
+END
+dbinit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10229/root/trunk/source/ors/src/test/sample_data/conf/dbinit.xml
+END
+user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10668/root/trunk/source/ors/src/test/sample_data/conf/user.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/10936/root/trunk/source/ors/src/test/sample_data/conf/log4j.properties
+END
+persist_tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10229/root/trunk/source/ors/src/test/sample_data/conf/persist_tests.xml
+END
+properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/properties.xml
+END

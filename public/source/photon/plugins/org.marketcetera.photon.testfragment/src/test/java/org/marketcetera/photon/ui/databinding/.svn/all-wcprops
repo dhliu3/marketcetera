@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/ui/databinding
+END
+EquityObservableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/ui/databinding/EquityObservableTest.java
+END
+NewOrReplaceOrderObservableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/ui/databinding/NewOrReplaceOrderObservableTest.java
+END
+OptionObservableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/ui/databinding/OptionObservableTest.java
+END

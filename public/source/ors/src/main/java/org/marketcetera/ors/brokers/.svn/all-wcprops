@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/16039/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers
+END
+Selector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/Selector.java
+END
+SelectorEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/SelectorEntry.java
+END
+SpringSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/SpringSelector.java
+END
+Broker.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10670/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/Broker.java
+END
+SpringSelectorEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/SpringSelectorEntry.java
+END
+Brokers.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/Brokers.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/Messages.java
+END
+SpringBroker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/16039/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/SpringBroker.java
+END
+SpringBrokers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10480/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/SpringBrokers.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10850/root/trunk/source/ors/src/main/java/org/marketcetera/ors/brokers/package.html
+END

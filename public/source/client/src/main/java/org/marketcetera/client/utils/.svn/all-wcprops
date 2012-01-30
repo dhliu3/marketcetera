@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/16019/root/trunk/source/client/src/main/java/org/marketcetera/client/utils
+END
+AutoOrderHistoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/16019/root/trunk/source/client/src/main/java/org/marketcetera/client/utils/AutoOrderHistoryManager.java
+END
+LiveOrderHistoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/16019/root/trunk/source/client/src/main/java/org/marketcetera/client/utils/LiveOrderHistoryManager.java
+END

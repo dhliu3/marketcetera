@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/internal/core
+END
+OptionPrettyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/internal/core/OptionPrettyPrinter.java
+END
+FuturePrettyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/internal/core/FuturePrettyPrinter.java
+END
+EquityPrettyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/internal/core/EquityPrettyPrinter.java
+END

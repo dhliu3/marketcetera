@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/16007/root/trunk/source/core/src/main/java/org/marketcetera/event/beans
+END
+FutureBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/16007/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/FutureBean.java
+END
+HasEventBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/HasEventBean.java
+END
+MarketDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10980/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/MarketDataBean.java
+END
+QuoteBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10980/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/QuoteBean.java
+END
+MarketstatBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10983/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/MarketstatBean.java
+END
+EventBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/EventBean.java
+END
+DividendBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10980/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/DividendBean.java
+END
+OptionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10904/root/trunk/source/core/src/main/java/org/marketcetera/event/beans/OptionBean.java
+END

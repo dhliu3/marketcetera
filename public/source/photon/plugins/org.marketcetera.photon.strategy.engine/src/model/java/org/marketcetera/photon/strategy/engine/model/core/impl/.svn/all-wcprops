@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl
+END
+StrategyEngineCorePackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/StrategyEngineCorePackageImpl.java
+END
+StringToStringMapEntryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/StringToStringMapEntryImpl.java
+END
+StrategyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/StrategyImpl.java
+END
+DeployedStrategyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/DeployedStrategyImpl.java
+END
+StrategyEngineConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/StrategyEngineConnectionImpl.java
+END
+StrategyEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/StrategyEngineImpl.java
+END
+StrategyEngineCoreFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/impl/StrategyEngineCoreFactoryImpl.java
+END

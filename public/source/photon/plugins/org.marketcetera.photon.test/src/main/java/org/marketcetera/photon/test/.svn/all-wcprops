@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test
+END
+OSGITestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/OSGITestUtil.java
+END
+PhotonTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/PhotonTestBase.java
+END
+MenuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/MenuState.java
+END
+EMFTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/EMFTestUtil.java
+END
+DefaultRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10231/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/DefaultRealm.java
+END
+ScreenshotCaptureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/ScreenshotCaptureListener.java
+END
+LockRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/LockRealm.java
+END
+ExpectedFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/ExpectedFailure.java
+END
+ContextMenuHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/ContextMenuHelper.java
+END
+IsExpectedPropertyChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/10468/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/IsExpectedPropertyChangeEvent.java
+END
+ExpectedIllegalStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/ExpectedIllegalStateException.java
+END
+SWTTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/SWTTestUtil.java
+END
+SWTBotConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/SWTBotConditions.java
+END
+CommandTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/CommandTestUtil.java
+END
+WorkbenchRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/WorkbenchRunner.java
+END
+JFaceAsserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/JFaceAsserts.java
+END
+ExpectedIllegalArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/ExpectedIllegalArgumentException.java
+END
+SimpleUIRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/SimpleUIRunner.java
+END
+MultiThreadedTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10526/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/MultiThreadedTestBase.java
+END
+ThreadRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10713/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/ThreadRealm.java
+END
+AbstractUIRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.test/src/main/java/org/marketcetera/photon/test/AbstractUIRunner.java
+END

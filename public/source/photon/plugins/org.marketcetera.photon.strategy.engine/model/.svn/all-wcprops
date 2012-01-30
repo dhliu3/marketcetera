@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/model
+END
+strategy-engine-core.genmodel
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/model/strategy-engine-core.genmodel
+END
+strategy-engine-core.ecore
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/model/strategy-engine-core.ecore
+END
+strategy-engine-core.ecorediag
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/model/strategy-engine-core.ecorediag
+END

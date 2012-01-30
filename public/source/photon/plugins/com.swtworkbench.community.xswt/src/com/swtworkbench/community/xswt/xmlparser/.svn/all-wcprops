@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlparser
+END
+MinimalPullParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlparser/MinimalPullParser.java
+END
+MinimalParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlparser/MinimalParser.java
+END
+IMinimalOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlparser/IMinimalOM.java
+END
+IMinimalParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/xmlparser/IMinimalParser.java
+END

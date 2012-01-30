@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts
+END
+VWAPStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/VWAPStrategy.java
+END
+ProcessData.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/ProcessData.java
+END
+HelloWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10917/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/HelloWorld.java
+END
+OrderSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/OrderSender.java
+END
+MarketData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/MarketData.java
+END
+MovingAverages.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10917/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/MovingAverages.java
+END
+OrderSlicer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10917/root/trunk/source/strategyagent/src/main/sample_data/samples/java/scripts/OrderSlicer.java
+END

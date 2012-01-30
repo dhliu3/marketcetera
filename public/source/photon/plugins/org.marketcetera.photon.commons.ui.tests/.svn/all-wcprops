@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/15806/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10708/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/build.properties
+END
+CommonsUISuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10848/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/CommonsUISuite.launch
+END

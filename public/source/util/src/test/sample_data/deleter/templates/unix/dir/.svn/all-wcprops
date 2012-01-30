@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10848/root/trunk/source/util/src/test/sample_data/deleter/templates/unix/dir
+END
+b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/7202/root/trunk/source/util/src/test/sample_data/deleter/templates/unix/dir/b.txt
+END
+dangling_link
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10836/root/trunk/source/util/src/test/sample_data/deleter/templates/unix/dir/dangling_link
+END
+recursive_link
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10836/root/trunk/source/util/src/test/sample_data/deleter/templates/unix/dir/recursive_link
+END
+dir_link
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/7196/root/trunk/source/util/src/test/sample_data/deleter/templates/unix/dir/dir_link
+END
+file_link
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10848/root/trunk/source/util/src/test/sample_data/deleter/templates/unix/dir/file_link
+END

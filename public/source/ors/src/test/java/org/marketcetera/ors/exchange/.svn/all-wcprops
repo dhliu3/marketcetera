@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange
+END
+LogonEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/LogonEvent.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/Event.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/Main.java
+END
+SampleExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/SampleExchange.java
+END
+CreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/CreateEvent.java
+END
+ToAppEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/ToAppEvent.java
+END
+FromAppEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/FromAppEvent.java
+END
+MessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/MessageEvent.java
+END
+LogoutEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/LogoutEvent.java
+END
+ToAdminEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/ToAdminEvent.java
+END
+FromAdminEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/ors/src/test/java/org/marketcetera/ors/exchange/FromAdminEvent.java
+END

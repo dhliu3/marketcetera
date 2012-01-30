@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/16056/root/trunk/source/client/src/test/java/org/marketcetera/client
+END
+ModulePreConfiguredTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10130/root/trunk/source/client/src/test/java/org/marketcetera/client/ModulePreConfiguredTest.java
+END
+ClientParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10906/root/trunk/source/client/src/test/java/org/marketcetera/client/ClientParametersTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10229/root/trunk/source/client/src/test/java/org/marketcetera/client/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10906/root/trunk/source/client/src/test/java/org/marketcetera/client/TestMessages.java
+END
+ModulePropertiesConfiguredTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10130/root/trunk/source/client/src/test/java/org/marketcetera/client/ModulePropertiesConfiguredTest.java
+END
+OrderSenderModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10229/root/trunk/source/client/src/test/java/org/marketcetera/client/OrderSenderModuleFactory.java
+END
+FactoryIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10229/root/trunk/source/client/src/test/java/org/marketcetera/client/FactoryIntegrationTest.java
+END
+ClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11022/root/trunk/source/client/src/test/java/org/marketcetera/client/ClientTest.java
+END
+ClientModuleTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10808/root/trunk/source/client/src/test/java/org/marketcetera/client/ClientModuleTestBase.java
+END
+ModuleFailuresTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/client/src/test/java/org/marketcetera/client/ModuleFailuresTest.java
+END
+MockServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10661/root/trunk/source/client/src/test/java/org/marketcetera/client/MockServer.java
+END
+OrderSenderModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10591/root/trunk/source/client/src/test/java/org/marketcetera/client/OrderSenderModule.java
+END
+MockAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10906/root/trunk/source/client/src/test/java/org/marketcetera/client/MockAuthenticator.java
+END
+MockSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10492/root/trunk/source/client/src/test/java/org/marketcetera/client/MockSessionFactory.java
+END
+MockClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/16056/root/trunk/source/client/src/test/java/org/marketcetera/client/MockClient.java
+END
+MockLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10104/root/trunk/source/client/src/test/java/org/marketcetera/client/MockLoginModule.java
+END
+ClientOrderModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/16050/root/trunk/source/client/src/test/java/org/marketcetera/client/ClientOrderModifierTest.java
+END
+MockServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/11022/root/trunk/source/client/src/test/java/org/marketcetera/client/MockServiceImpl.java
+END
+MockMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11022/root/trunk/source/client/src/test/java/org/marketcetera/client/MockMessageHandler.java
+END
+MockConfigurationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10229/root/trunk/source/client/src/test/java/org/marketcetera/client/MockConfigurationProvider.java
+END
+OrderValidationFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10842/root/trunk/source/client/src/test/java/org/marketcetera/client/OrderValidationFailureTest.java
+END

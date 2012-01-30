@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/10229/root/trunk/source/util/src/test/sample_data/quickfix
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10229/root/trunk/source/util/src/test/sample_data/quickfix/settings.xml
+END
+descriptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10229/root/trunk/source/util/src/test/sample_data/quickfix/descriptor.xml
+END

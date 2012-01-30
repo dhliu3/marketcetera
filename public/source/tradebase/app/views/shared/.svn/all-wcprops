@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/15831/root/trunk/source/tradebase/app/views/shared
+END
+_footer.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/15831/root/trunk/source/tradebase/app/views/shared/_footer.rhtml
+END
+_currencies_auto_complete.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_currencies_auto_complete.rhtml
+END
+_symbol_auto_complete.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_symbol_auto_complete.rhtml
+END
+_left_navigation_column.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_left_navigation_column.rhtml
+END
+_show_edit_delete_links.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_show_edit_delete_links.rhtml
+END
+_from_to_date_fields.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_from_to_date_fields.rhtml
+END
+_header.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10848/root/trunk/source/tradebase/app/views/shared/_header.rhtml
+END
+_security_type.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_security_type.rhtml
+END
+_breadcrumbs.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_breadcrumbs.rhtml
+END
+_clear_create_form_buttons.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_clear_create_form_buttons.rhtml
+END
+_currency_auto_complete.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/shared/_currency_auto_complete.rhtml
+END

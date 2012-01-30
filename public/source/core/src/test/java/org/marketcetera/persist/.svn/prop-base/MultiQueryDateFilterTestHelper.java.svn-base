@@ -1,0 +1,16 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 551
+/root/branches/anshul/dotnet/source/core/src/test/java/org/marketcetera/persist/MultiQueryDateFilterTestHelper.java:10292-10295
+/root/branches/futures/source/core/src/test/java/org/marketcetera/persist/MultiQueryDateFilterTestHelper.java:10938-10950
+/root/branches/will/messagehistory/source/core/src/test/java/org/marketcetera/persist/MultiQueryStringFilterTestHelper.java:10075-10097
+/root/branches/will/strategy/source/core/src/test/java/org/marketcetera/persist/MultiQueryStringFilterTestHelper.java:10011,10018,10021-10026,10032-10035,10050-10055
+K 13
+svn:mime-type
+V 10
+text/plain
+END

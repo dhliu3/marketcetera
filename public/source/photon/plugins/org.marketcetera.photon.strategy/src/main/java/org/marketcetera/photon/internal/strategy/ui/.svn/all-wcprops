@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui
+END
+NewJavaStrategyWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/NewJavaStrategyWizard.java
+END
+NewRubyStrategyWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10787/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/NewRubyStrategyWizard.java
+END
+AbstractNewStrategyWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/AbstractNewStrategyWizard.java
+END
+UndeployDeleteParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/UndeployDeleteParticipant.java
+END
+TradeSuggestionsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/TradeSuggestionsView.java
+END
+SendOrdersHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10787/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/SendOrdersHandler.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/Messages.java
+END
+OpenSuggestionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/OpenSuggestionHandler.java
+END
+TradeSuggestionDeleteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/!svn/ver/10787/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/TradeSuggestionDeleteHandler.java
+END
+DeployFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/DeployFileHandler.java
+END
+NewStrategyWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/NewStrategyWizardPage.java
+END
+StrategyPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/ui/StrategyPerspective.java
+END

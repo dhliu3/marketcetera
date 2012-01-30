@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10606/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless
+END
+StatelessRemoteCallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/StatelessRemoteCallTest.java
+END
+ClientServerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10606/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/ClientServerTestBase.java
+END
+NodeTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/NodeTestBase.java
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/NodeTest.java
+END
+StatelessRemoteCallerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/StatelessRemoteCallerTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/TestMessages.java
+END
+StatelessRemoteCallTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/StatelessRemoteCallTestBase.java
+END
+StatelessClientContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/StatelessClientContextTest.java
+END
+StatelessClientServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/StatelessClientServerTest.java
+END
+StatelessRemoteRunnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/StatelessRemoteRunnerTest.java
+END
+ClientContextTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10229/root/trunk/source/util/src/test/java/org/marketcetera/util/ws/stateless/ClientContextTestBase.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/tracer/templates
+END
+trace_processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/tracer/templates/trace_processor.rb
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10298/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/tracer/templates/helper.rb
+END
+layout.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/tracer/templates/layout.rhtml
+END
+controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10620/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/tracer/templates/controller.rb
+END
+index.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10298/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/tracer/templates/index.rhtml
+END

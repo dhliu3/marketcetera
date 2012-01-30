@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts
+END
+vwap_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/vwap_strategy.rb
+END
+process_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/process_data.rb
+END
+hello_world.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10620/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/hello_world.rb
+END
+order_sender.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/order_sender.rb
+END
+market_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10930/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/market_data.rb
+END
+moving_averages.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10620/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/moving_averages.rb
+END
+order_slicer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/sample_data/samples/ruby/scripts/order_slicer.rb
+END

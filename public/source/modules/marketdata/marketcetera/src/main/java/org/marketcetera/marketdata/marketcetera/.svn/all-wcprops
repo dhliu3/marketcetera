@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/11022/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera
+END
+MarketceteraFeedModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10578/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedModule.java
+END
+MarketceteraFeedFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10039/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10620/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/package-info.java
+END
+MarketceteraFeedMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10229/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedMXBean.java
+END
+MarketceteraOptionSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10808/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraOptionSymbol.java
+END
+MarketceteraFeedEventTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10930/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedEventTranslator.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10171/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/Messages.java
+END
+MarketceteraFeedCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10267/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedCredentials.java
+END
+MarketceteraFeedModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/10578/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedModuleFactory.java
+END
+MarketceteraFeedMessageTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10930/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedMessageTranslator.java
+END
+MarketceteraFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/11022/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeed.java
+END
+MarketceteraFeedToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10229/root/trunk/source/modules/marketdata/marketcetera/src/main/java/org/marketcetera/marketdata/marketcetera/MarketceteraFeedToken.java
+END

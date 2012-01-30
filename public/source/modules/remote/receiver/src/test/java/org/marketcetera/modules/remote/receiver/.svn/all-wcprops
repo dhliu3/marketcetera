@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10842/root/trunk/source/modules/remote/receiver/src/test/java/org/marketcetera/modules/remote/receiver
+END
+ReceiverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10842/root/trunk/source/modules/remote/receiver/src/test/java/org/marketcetera/modules/remote/receiver/ReceiverTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10492/root/trunk/source/modules/remote/receiver/src/test/java/org/marketcetera/modules/remote/receiver/MessagesTest.java
+END
+ClientLoginModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/10842/root/trunk/source/modules/remote/receiver/src/test/java/org/marketcetera/modules/remote/receiver/ClientLoginModuleTest.java
+END

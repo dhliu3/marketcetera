@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10951/root/trunk/source/core/src/main/resources/META-INF/services
+END
+org.marketcetera.core.position.impl.InstrumentPositionKeyComparator
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/10951/root/trunk/source/core/src/main/resources/META-INF/services/org.marketcetera.core.position.impl.InstrumentPositionKeyComparator
+END
+org.marketcetera.core.instruments.InstrumentToMessage
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/10951/root/trunk/source/core/src/main/resources/META-INF/services/org.marketcetera.core.instruments.InstrumentToMessage
+END
+org.marketcetera.module.ModuleFactory
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10298/root/trunk/source/core/src/main/resources/META-INF/services/org.marketcetera.module.ModuleFactory
+END
+org.marketcetera.core.instruments.InstrumentFromMessage
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/10951/root/trunk/source/core/src/main/resources/META-INF/services/org.marketcetera.core.instruments.InstrumentFromMessage
+END

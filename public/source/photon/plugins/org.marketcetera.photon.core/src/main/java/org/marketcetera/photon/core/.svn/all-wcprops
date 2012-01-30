@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core
+END
+ILogoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/ILogoutService.java
+END
+InstrumentPrettyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/InstrumentPrettyPrinter.java
+END
+ICredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/ICredentials.java
+END
+ICredentialsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/ICredentialsService.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/Messages.java
+END
+LogoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/LogoutService.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/java/org/marketcetera/photon/core/Credentials.java
+END

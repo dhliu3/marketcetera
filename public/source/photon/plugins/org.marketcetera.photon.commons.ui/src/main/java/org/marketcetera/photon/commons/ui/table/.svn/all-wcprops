@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10708/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/table
+END
+TableConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/10499/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/table/TableConfiguration.java
+END
+TableSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/10499/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/table/TableSupport.java
+END
+ColumnConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10499/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui/src/main/java/org/marketcetera/photon/commons/ui/table/ColumnConfiguration.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10433/root/trunk/source/core/src/test/java/org/marketcetera/core/publisher
+END
+PublisherEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10433/root/trunk/source/core/src/test/java/org/marketcetera/core/publisher/PublisherEngineTest.java
+END
+MockPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9356/root/trunk/source/core/src/test/java/org/marketcetera/core/publisher/MockPublisher.java
+END
+MockSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10433/root/trunk/source/core/src/test/java/org/marketcetera/core/publisher/MockSubscriber.java
+END

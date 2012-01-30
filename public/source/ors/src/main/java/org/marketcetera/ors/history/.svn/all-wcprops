@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/15871/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history
+END
+ReportPersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10484/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/ReportPersistenceException.java
+END
+ReportHistoryServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11022/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/ReportHistoryServices.java
+END
+BasicReportHistoryServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/11150/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/BasicReportHistoryServices.java
+END
+ReportSavedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/11150/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/ReportSavedListener.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10936/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/Messages.java
+END
+MultiExecReportSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10484/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/MultiExecReportSummary.java
+END
+ReportType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10231/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/ReportType.java
+END
+OptionSummaryFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/OptionSummaryFields.java
+END
+InstrumentSummaryFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/InstrumentSummaryFields.java
+END
+ExecutionReportSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/15871/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/ExecutionReportSummary.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10850/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/package.html
+END
+AsyncSaveReportHistoryServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11150/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/AsyncSaveReportHistoryServices.java
+END
+FutureSummaryFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/11150/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/FutureSummaryFields.java
+END
+EquitySummaryFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/EquitySummaryFields.java
+END
+PersistentReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10936/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/PersistentReport.java
+END
+MultiPersistentReportQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10484/root/trunk/source/ors/src/main/java/org/marketcetera/ors/history/MultiPersistentReportQuery.java
+END

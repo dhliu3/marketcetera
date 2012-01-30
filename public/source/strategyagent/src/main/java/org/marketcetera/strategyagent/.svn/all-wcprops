@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10896/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent
+END
+AgentConfigurationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/AgentConfigurationProvider.java
+END
+StrategyAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10896/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/StrategyAgent.java
+END
+ClientSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/ClientSession.java
+END
+StartModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9860/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/StartModule.java
+END
+CreateDataFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/9860/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/CreateDataFlow.java
+END
+SAServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/SAServiceImpl.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10896/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/Messages.java
+END
+CommandRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/9860/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/CommandRunner.java
+END
+CreateModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9860/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/CreateModule.java
+END
+JarClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10345/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/JarClassLoader.java
+END
+ClientSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10885/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/ClientSessionFactory.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9860/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/Command.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10850/root/trunk/source/strategyagent/src/main/java/org/marketcetera/strategyagent/package.html
+END

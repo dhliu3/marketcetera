@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options
+END
+ExpirationTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/options/ExpirationTypeTest.java
+END
+CustomExpiryNormalizerLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/CustomExpiryNormalizerLoaderTest.java
+END
+CustomExpiryNormalizerFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/CustomExpiryNormalizerFailureTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/MessagesTest.java
+END
+CustomExpiryNormalizerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/CustomExpiryNormalizerTestBase.java
+END
+OptionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/OptionUtilsTest.java
+END
+CustomExpiryNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/CustomExpiryNormalizer.java
+END
+CustomExpiryNormalizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10893/root/trunk/source/core/src/test/java/org/marketcetera/options/CustomExpiryNormalizerTest.java
+END

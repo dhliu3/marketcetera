@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui/src/main/java/org/marketcetera/photon/strategy/engine/sa/ui
+END
+StrategyAgentEngineUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui/src/main/java/org/marketcetera/photon/strategy/engine/sa/ui/StrategyAgentEngineUI.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui/src/main/java/org/marketcetera/photon/strategy/engine/sa/ui/Messages.java
+END
+StrategyAgentEnginesSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui/src/main/java/org/marketcetera/photon/strategy/engine/sa/ui/StrategyAgentEnginesSupport.java
+END
+NewStrategyAgentWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.ui/src/main/java/org/marketcetera/photon/strategy/engine/sa/ui/NewStrategyAgentWizard.java
+END

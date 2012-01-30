@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15975/root/trunk/source/client/src/test/sample_data/conf
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/15975/root/trunk/source/client/src/test/sample_data/conf/log4j.properties
+END
+test_login.config
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10298/root/trunk/source/client/src/test/sample_data/conf/test_login.config
+END

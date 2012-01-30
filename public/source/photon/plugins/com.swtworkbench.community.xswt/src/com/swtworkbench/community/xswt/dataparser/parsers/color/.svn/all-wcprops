@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color
+END
+RGBColorDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color/RGBColorDataParser.java
+END
+CSSColorsDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color/CSSColorsDataParser.java
+END
+IColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color/IColorManager.java
+END
+ColorDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color/ColorDataParser.java
+END
+SWTColorsDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color/SWTColorsDataParser.java
+END
+CSSColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/dataparser/parsers/color/CSSColors.java
+END

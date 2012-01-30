@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/parser
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/parser/MessagesTest.java
+END
+OrderSingleParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/parser/OrderSingleParserTest.java
+END
+CommandParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/parser/CommandParserTest.java
+END

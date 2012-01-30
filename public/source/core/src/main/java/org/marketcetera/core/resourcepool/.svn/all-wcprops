@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool
+END
+ResourcePoolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ResourcePoolException.java
+END
+DuplicateResourceReturnException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/DuplicateResourceReturnException.java
+END
+ResourcePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ResourcePool.java
+END
+ReservationResourcePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ReservationResourcePool.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/package-info.java
+END
+FIFOResourcePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/FIFOResourcePool.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/Resource.java
+END
+ReservationForAllocatedResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/9961/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ReservationForAllocatedResourceException.java
+END
+ReleasedResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ReleasedResourceException.java
+END
+ExecutableBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ExecutableBlock.java
+END
+ResourcePoolShuttingDownException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/core/resourcepool/ResourcePoolShuttingDownException.java
+END

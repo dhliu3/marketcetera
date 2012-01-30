@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics
+END
+JmxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/JmxUtils.java
+END
+ThreadedMetricMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/ThreadedMetricMXBean.java
+END
+PrintStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/PrintStreamFactory.java
+END
+ConditionsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/ConditionsFactory.java
+END
+Configurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/Configurator.java
+END
+CheckpointInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/CheckpointInfo.java
+END
+FileStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/FileStreamFactory.java
+END
+ThreadedMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/ThreadedMetric.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/metrics/package-info.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/Messages.java
+END
+IterationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/IterationInfo.java
+END
+PerThreadInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/PerThreadInfo.java
+END
+StdErrFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/StdErrFactory.java
+END
+ThreadedMetricBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/metrics/ThreadedMetricBeanImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger
+END
+FileLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/FileLogger.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/Logger.java
+END
+AbstractLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/AbstractLogger.java
+END
+EclipseLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/EclipseLogger.java
+END
+ILogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/ILogger.java
+END
+StdLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/StdLogger.java
+END
+TeeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/metalogger/TeeLogger.java
+END

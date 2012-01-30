@@ -1,0 +1,172 @@
+10
+
+dir
+16059
+http://source.marketcetera.org/root/trunk/source/photon/plugins
+http://source.marketcetera.org
+
+
+
+2012-01-18T22:05:45.102172Z
+16059
+colin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+501a4a96-914b-0410-8454-f5988a4ca596
+
+com.swtworkbench.community.xswt
+dir
+
+org.marketcetera.photon.strategy.engine.ui
+dir
+
+org.marketcetera.core.tests
+dir
+
+org.marketcetera.photon.strategy.engine.ui.tests
+dir
+
+org.marketcetera.photon.strategy.engine.sa.ui
+dir
+
+org.marketcetera.photon.strategy.engine.sa.ui.tests
+dir
+
+org.marketcetera.photon.notification
+dir
+
+org.marketcetera.photon.notification.tests
+dir
+
+org.marketcetera.photon.core
+dir
+
+org.marketcetera.photon.core.tests
+dir
+
+org.marketcetera.photon.marketdata.ui
+dir
+
+org.marketcetera.photon.marketdata.ui.tests
+dir
+
+org.marketcetera.photon.module.ui
+dir
+
+org.marketcetera.photon
+dir
+
+org.marketcetera.photon.module.ui.tests
+dir
+
+org.marketcetera.photon.commons.ui.workbench
+dir
+
+org.marketcetera.photon.commons.ui.workbench.tests
+dir
+
+org.marketcetera.photon.marketdata
+dir
+
+org.marketcetera.photon.marketdata.tests
+dir
+
+org.marketcetera.photon.test
+dir
+
+org.marketcetera.photon.product
+dir
+
+org.marketcetera.photon.java
+dir
+
+org.marketcetera.photon.module
+dir
+
+org.marketcetera.photon.module.tests
+dir
+
+org.marketcetera.photon.commons.ui
+dir
+
+org.marketcetera.photon.commons.ui.tests
+dir
+
+org.marketcetera.photon.testsuite
+dir
+
+org.marketcetera.photon.strategy.engine.ui.workbench.ws
+dir
+
+org.marketcetera.photon.strategy.engine.ui.workbench.ws.tests
+dir
+
+org.marketcetera.photon.strategy.engine.embedded
+dir
+
+org.marketcetera.photon.build
+dir
+
+org.marketcetera.photon.strategy.engine.embedded.tests
+dir
+
+org.marketcetera.rss
+dir
+
+org.marketcetera.photon.strategy
+dir
+
+org.marketcetera.photon.positions.ui
+dir
+
+org.marketcetera.photon.strategy.engine.ui.workbench
+dir
+
+org.marketcetera.photon.strategy.tests
+dir
+
+org.marketcetera.photon.testfragment
+dir
+
+org.marketcetera.photon.positions.ui.tests
+dir
+
+org.marketcetera.photon.strategy.engine.ui.workbench.tests
+dir
+
+org.marketcetera.photon.strategy.engine.sa.ui.workbench
+dir
+
+org.marketcetera.photon.strategy.engine
+dir
+
+org.marketcetera.photon.strategy.engine.sa.ui.workbench.tests
+dir
+
+org.marketcetera.photon.strategy.engine.tests
+dir
+
+org.marketcetera.photon.strategy.engine.sa
+dir
+
+org.marketcetera.photon.strategy.engine.sa.tests
+dir
+
+org.marketcetera.photon.commons
+dir
+
+org.marketcetera.photon.commons.tests
+dir
+

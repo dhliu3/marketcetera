@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/filters
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/filters/main.xml
+END
+allowed_orders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/filters/allowed_orders.xml
+END
+supported_messages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10264/root/trunk/source/ors/src/test/sample_data/conf/filters/supported_messages.xml
+END

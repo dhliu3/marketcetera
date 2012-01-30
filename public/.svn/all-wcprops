@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/16059/root/trunk
+END
+profiles.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/10848/root/trunk/profiles.xml.sample
+END
+uberPom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/16056/root/trunk/uberPom.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/15806/root/trunk/pom.xml
+END

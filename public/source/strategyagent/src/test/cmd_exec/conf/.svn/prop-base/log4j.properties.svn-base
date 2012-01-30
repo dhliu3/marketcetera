@@ -1,0 +1,15 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 356
+/root/branches/anshul/dotnet/source/strategyagent/src/test/sample_data/conf/log4j.properties:10292-10295
+/root/branches/will/messagehistory/source/strategyagent/src/test/sample_data/conf/log4j.properties:10075-10097
+/root/branches/will/strategy/source/strategyagent/src/test/sample_data/conf/log4j.properties:10011,10018,10021-10026,10032-10035,10050-10055
+K 13
+svn:mime-type
+V 30
+text/plain; charset=iso-8859-1
+END

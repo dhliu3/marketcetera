@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding
+END
+DataBindingPreferencePageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/DataBindingPreferencePageTest.java
+END
+ObservingCompositeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/ObservingCompositeTest.java
+END
+RequiredFieldSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/RequiredFieldSupportTest.java
+END
+PropertyWatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/PropertyWatcherTest.java
+END
+CustomWizardPageSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/CustomWizardPageSupportTest.java
+END
+DataBindingTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/DataBindingTestUtils.java
+END
+DataBindingUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/DataBindingUtilsTest.java
+END
+ObservablesManagerCaveatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/ObservablesManagerCaveatTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/MessagesTest.java
+END
+ProxyObservablesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/ProxyObservablesTest.java
+END
+SWTBotControlDecoration.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/SWTBotControlDecoration.java
+END
+DataBindingContextCaveatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/DataBindingContextCaveatTest.java
+END
+UpdateStrategyFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.tests/src/test/java/org/marketcetera/photon/commons/ui/databinding/UpdateStrategyFactoryTest.java
+END

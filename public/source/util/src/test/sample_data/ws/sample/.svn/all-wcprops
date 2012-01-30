@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/10229/root/trunk/source/util/src/test/sample_data/ws/sample
+END
+log_server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10229/root/trunk/source/util/src/test/sample_data/ws/sample/log_server.properties
+END
+log_client.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10229/root/trunk/source/util/src/test/sample_data/ws/sample/log_client.properties
+END

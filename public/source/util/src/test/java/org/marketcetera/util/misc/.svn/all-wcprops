@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10885/root/trunk/source/util/src/test/java/org/marketcetera/util/misc
+END
+NamedThreadFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10885/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/NamedThreadFactoryTest.java
+END
+ReflectUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10079/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/ReflectUtilsTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9402/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/MessagesTest.java
+END
+StringUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9462/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/StringUtilsTest.java
+END
+IterableUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9233/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/IterableUtilsTest.java
+END
+UCPFilterInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9462/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/UCPFilterInfoTest.java
+END
+RandomStringsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9931/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/RandomStringsTest.java
+END
+ClassVersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/ClassVersionTest.java
+END
+CollectionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9931/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/CollectionUtilsTest.java
+END
+OperatingSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10692/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/OperatingSystemTest.java
+END
+UCPFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9462/root/trunk/source/util/src/test/java/org/marketcetera/util/misc/UCPFilterTest.java
+END

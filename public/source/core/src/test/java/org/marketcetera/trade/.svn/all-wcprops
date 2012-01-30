@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/16053/root/trunk/source/core/src/test/java/org/marketcetera/trade
+END
+ExecutionReportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/trade/ExecutionReportTest.java
+END
+TypesTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/trade/TypesTestBase.java
+END
+InstrumentTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/trade/InstrumentTestBase.java
+END
+FIXCharEnumTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/FIXCharEnumTestBase.java
+END
+TimeInForceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/TimeInForceTest.java
+END
+FIXResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/trade/FIXResponseTest.java
+END
+ExecutionTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11046/root/trunk/source/core/src/test/java/org/marketcetera/trade/ExecutionTypeTest.java
+END
+FIXEnumTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/FIXEnumTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/MessagesTest.java
+END
+OrderReplaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/16053/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderReplaceTest.java
+END
+OptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10891/root/trunk/source/core/src/test/java/org/marketcetera/trade/OptionTest.java
+END
+SecurityTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/SecurityTypeTest.java
+END
+OptionTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/trade/OptionTypeTest.java
+END
+FutureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/15798/root/trunk/source/core/src/test/java/org/marketcetera/trade/FutureTest.java
+END
+OrderSingleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/16053/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderSingleTest.java
+END
+OrderTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderTypeTest.java
+END
+FIXConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/trade/FIXConverterTest.java
+END
+OrderCancelRejectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderCancelRejectTest.java
+END
+OrderStatusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10516/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderStatusTest.java
+END
+EquityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/trade/EquityTest.java
+END
+OrderCancelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/16053/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderCancelTest.java
+END
+PositionEffectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/PositionEffectTest.java
+END
+FIXOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/trade/FIXOrderTest.java
+END
+FutureExpirationMonthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11150/root/trunk/source/core/src/test/java/org/marketcetera/trade/FutureExpirationMonthTest.java
+END
+SideTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/SideTest.java
+END
+OrderSingleSuggestionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10808/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderSingleSuggestionTest.java
+END
+OrderCapacityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/OrderCapacityTest.java
+END
+IDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10842/root/trunk/source/core/src/test/java/org/marketcetera/trade/IDTest.java
+END
+FIXMessageAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/core/src/test/java/org/marketcetera/trade/FIXMessageAdapterTest.java
+END

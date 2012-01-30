@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/16019/root/trunk/source/modules/strategy
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/10151/root/trunk/source/modules/strategy/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/15806/root/trunk/source/modules/strategy/pom.xml
+END

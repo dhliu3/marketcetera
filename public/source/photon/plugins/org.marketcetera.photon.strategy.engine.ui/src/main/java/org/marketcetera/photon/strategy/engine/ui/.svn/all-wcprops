@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui
+END
+StrategyEngineStatusDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineStatusDecorator.java
+END
+DeployStrategyWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/DeployStrategyWizard.java
+END
+StrategyEnginesContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/StrategyEnginesContentProvider.java
+END
+ScriptSelectionButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/ScriptSelectionButton.java
+END
+StrategyEngineUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineUI.java
+END
+StrategyEnginesLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/StrategyEnginesLabelProvider.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/Messages.java
+END
+StrategyEngineColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineColors.java
+END
+FileDialogButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/FileDialogButton.java
+END
+StrategyEngineImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/StrategyEngineImage.java
+END
+AbstractStrategyEnginesSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/AbstractStrategyEnginesSupport.java
+END
+DeployStrategyWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui/src/main/java/org/marketcetera/photon/strategy/engine/ui/DeployStrategyWizardPage.java
+END

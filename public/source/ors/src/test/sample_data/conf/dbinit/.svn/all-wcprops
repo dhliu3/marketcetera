@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/10842/root/trunk/source/ors/src/test/sample_data/conf/dbinit
+END
+101_create_admin_user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10842/root/trunk/source/ors/src/test/sample_data/conf/dbinit/101_create_admin_user.sql
+END

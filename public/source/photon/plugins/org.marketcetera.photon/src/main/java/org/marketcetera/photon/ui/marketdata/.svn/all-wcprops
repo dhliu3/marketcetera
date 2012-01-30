@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/marketdata
+END
+MarketDataStatusIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/10628/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/marketdata/MarketDataStatusIndicator.java
+END
+ReconnectMarketData.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10577/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/marketdata/ReconnectMarketData.java
+END

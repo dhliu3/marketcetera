@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11122/root/trunk/source/core/src/main/java/org/marketcetera/event/util
+END
+BookPriceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/11122/root/trunk/source/core/src/main/java/org/marketcetera/event/util/BookPriceComparator.java
+END
+EventServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/event/util/EventServices.java
+END
+MarketstatEventCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11027/root/trunk/source/core/src/main/java/org/marketcetera/event/util/MarketstatEventCache.java
+END
+PriceAndSizeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10836/root/trunk/source/core/src/main/java/org/marketcetera/event/util/PriceAndSizeComparator.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/resources/org/marketcetera/photon/internal/strategy
+END
+_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10787/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/resources/org/marketcetera/photon/internal/strategy/_messages.properties
+END
+JavaStrategyTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10838/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/resources/org/marketcetera/photon/internal/strategy/JavaStrategyTemplate.txt
+END
+RubyStrategyTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10838/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/resources/org/marketcetera/photon/internal/strategy/RubyStrategyTemplate.txt
+END

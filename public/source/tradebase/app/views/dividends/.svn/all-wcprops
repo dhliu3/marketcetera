@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/dividends
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/dividends/list.rhtml
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/dividends/show.rhtml
+END
+_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/dividends/_form.rhtml
+END
+edit.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/dividends/edit.rhtml
+END
+new.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/dividends/new.rhtml
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/9227/root/trunk/source/util/src/test/sample_data/directory_walker/unix
+END
+a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/9227/root/trunk/source/util/src/test/sample_data/directory_walker/unix/a.txt
+END

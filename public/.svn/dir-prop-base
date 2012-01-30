@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 86
+profiles.xml
+*~
+#*#
+.classpath
+.project
+.settings
+*.ipr
+*.iws
+*.iml
+target
+*$py.class
+
+K 13
+svn:mergeinfo
+V 239
+/root/branches/anshul/dotnet:10292-10295
+/root/branches/colin/fortum:10957-11005
+/root/branches/futures:10938-10950
+/root/branches/will/messagehistory:10075-10097
+/root/branches/will/strategy:10011,10018,10021-10026,10032-10035,10050-10055
+END

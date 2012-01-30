@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/15806/root/trunk/source/tradebase/config
+END
+messaging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10298/root/trunk/source/tradebase/config/messaging.rb
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10298/root/trunk/source/tradebase/config/routes.rb
+END
+broker.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/10298/root/trunk/source/tradebase/config/broker.yml
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10298/root/trunk/source/tradebase/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/10298/root/trunk/source/tradebase/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/15806/root/trunk/source/tradebase/config/environment.rb
+END

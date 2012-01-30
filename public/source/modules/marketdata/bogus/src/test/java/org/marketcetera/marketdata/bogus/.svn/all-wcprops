@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/15772/root/trunk/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus
+END
+BogusFeedMessageTranslatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/15772/root/trunk/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus/BogusFeedMessageTranslatorTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/11150/root/trunk/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus/MessagesTest.java
+END
+BogusFeedModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/10930/root/trunk/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus/BogusFeedModuleTest.java
+END

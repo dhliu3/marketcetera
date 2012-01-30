@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy
+END
+TradeSuggestionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/TradeSuggestionManager.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/Module.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/Messages.java
+END
+TradeSuggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10933/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/TradeSuggestion.java
+END
+StrategyEnginesSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/StrategyEnginesSupport.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/10782/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/Activator.java
+END
+StrategyTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy/src/main/java/org/marketcetera/photon/internal/strategy/StrategyTemplate.java
+END

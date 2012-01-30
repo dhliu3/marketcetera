@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core
+END
+ConnectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/ConnectionState.java
+END
+Strategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/Strategy.java
+END
+StrategyState.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/StrategyState.java
+END
+DeployedStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/DeployedStrategy.java
+END
+StrategyEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/StrategyEngine.java
+END
+StrategyEngineConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/StrategyEngineConnection.java
+END
+StrategyEngineCoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/StrategyEngineCoreFactory.java
+END
+StrategyEngineCorePackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine/src/model/java/org/marketcetera/photon/strategy/engine/model/core/StrategyEngineCorePackage.java
+END

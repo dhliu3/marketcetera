@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/quickfix
+END
+FIXValueExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/FIXValueExtractorTest.java
+END
+FIXVersionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10808/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/FIXVersionsTest.java
+END
+NullQuickFIXSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9972/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/NullQuickFIXSender.java
+END
+DummyQuickFIXApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/DummyQuickFIXApp.java
+END
+FIXDataDictionaryManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/9972/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/FIXDataDictionaryManagerTest.java
+END
+DecimalFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10808/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/DecimalFieldTest.java
+END
+FieldNameMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/FieldNameMapTest.java
+END
+FIXMessageFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10808/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/FIXMessageFactoryTest.java
+END
+DefaultSessionIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/DefaultSessionIDTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9477/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/MessagesTest.java
+END
+FIXMessageUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/quickfix/FIXMessageUtilTest.java
+END

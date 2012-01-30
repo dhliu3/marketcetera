@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa
+END
+StrategyAgentConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/StrategyAgentConnectionTest.java
+END
+InternalStrategyAgentEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/InternalStrategyAgentEngineTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.sa.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/sa/MessagesTest.java
+END

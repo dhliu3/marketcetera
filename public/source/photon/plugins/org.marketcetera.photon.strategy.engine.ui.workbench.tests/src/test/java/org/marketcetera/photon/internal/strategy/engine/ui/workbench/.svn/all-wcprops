@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench
+END
+DeployedStrategyAdapterFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/DeployedStrategyAdapterFactoryTest.java
+END
+StrategyEngineAdapterFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/StrategyEngineAdapterFactoryTest.java
+END
+DeployedStrategyConfigurationPropertyPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/DeployedStrategyConfigurationPropertyPageTest.java
+END
+StrategyEnginesViewPropertyTesterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/StrategyEnginesViewPropertyTesterTest.java
+END
+DeployedStrategyPropertyTesterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/DeployedStrategyPropertyTesterTest.java
+END
+StrategyEngineIdentificationPropertyPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/StrategyEngineIdentificationPropertyPageTest.java
+END
+StrategyEnginePropertyTesterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/StrategyEnginePropertyTesterTest.java
+END
+StrategyEnginesViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/StrategyEnginesViewTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/MessagesTest.java
+END
+NewPropertyInputDialogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/NewPropertyInputDialogTest.java
+END

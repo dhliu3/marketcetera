@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting
+END
+IScriptable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/IScriptable.java
+END
+BindingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/BindingsListener.java
+END
+Script.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/Script.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/Function.java
+END
+MethodFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/MethodFunction.java
+END
+InterfaceDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/InterfaceDataParser.java
+END
+ScriptingEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/ScriptingEngine.java
+END
+EvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/EvaluationContext.java
+END
+Bindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/Bindings.java
+END
+MethodFunctionDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/scripting/MethodFunctionDataParser.java
+END

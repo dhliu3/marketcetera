@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/16001/root/trunk/source/core/src/main/resources
+END
+core_module_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10331/root/trunk/source/core/src/main/resources/core_module_messages.properties
+END
+basic-exchanges.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10151/root/trunk/source/core/src/main/resources/basic-exchanges.properties
+END
+core_persist_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10151/root/trunk/source/core/src/main/resources/core_persist_messages.properties
+END
+core_jms_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10492/root/trunk/source/core/src/main/resources/core_jms_messages.properties
+END
+core_options_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10893/root/trunk/source/core/src/main/resources/core_options_messages.properties
+END
+core_instruments_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10951/root/trunk/source/core/src/main/resources/core_instruments_messages.properties
+END
+messagehistory_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10151/root/trunk/source/core/src/main/resources/messagehistory_messages.properties
+END
+core_trade_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/16001/root/trunk/source/core/src/main/resources/core_trade_messages.properties
+END
+core_position_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10804/root/trunk/source/core/src/main/resources/core_position_messages.properties
+END
+marketdata_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10951/root/trunk/source/core/src/main/resources/marketdata_messages.properties
+END
+iso-10383.csv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10848/root/trunk/source/core/src/main/resources/iso-10383.csv
+END
+core_metrics_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10885/root/trunk/source/core/src/main/resources/core_metrics_messages.properties
+END
+FIX44-marketcetera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1797/root/trunk/source/core/src/main/resources/FIX44-marketcetera.xml
+END
+event_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10980/root/trunk/source/core/src/main/resources/event_messages.properties
+END
+quickfix_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10176/root/trunk/source/core/src/main/resources/quickfix_messages.properties
+END
+symbology_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10151/root/trunk/source/core/src/main/resources/symbology_messages.properties
+END
+FIX00-system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10039/root/trunk/source/core/src/main/resources/FIX00-system.xml
+END
+hyperfeed-exchanges.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10151/root/trunk/source/core/src/main/resources/hyperfeed-exchanges.properties
+END
+core_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10842/root/trunk/source/core/src/main/resources/core_messages.properties
+END

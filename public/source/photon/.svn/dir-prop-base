@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 73
+*~
+#*#
+.classpath
+.project
+.settings
+*.ipr
+*.iws
+*.iml
+target
+*$py.class
+
+K 16
+svnmerge-blocked
+V 66
+/client/photon/branches/0.4-options:940,942,944,970,1074-1075,1077
+K 19
+svnmerge-integrated
+V 73
+/client/photon/branches/0.4-options:1-939,941-969,971-1073,1076,1078-1183
+END

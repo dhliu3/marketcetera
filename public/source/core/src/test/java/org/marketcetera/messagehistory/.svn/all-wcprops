@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/messagehistory
+END
+TradeReportsHistoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/messagehistory/TradeReportsHistoryTest.java
+END
+AveragePriceReportListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/messagehistory/AveragePriceReportListTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9477/root/trunk/source/core/src/test/java/org/marketcetera/messagehistory/MessagesTest.java
+END
+ReportHolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/messagehistory/ReportHolderTest.java
+END
+ReportGroupIDComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10875/root/trunk/source/core/src/test/java/org/marketcetera/messagehistory/ReportGroupIDComparatorTest.java
+END

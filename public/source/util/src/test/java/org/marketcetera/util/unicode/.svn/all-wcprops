@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/9933/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode
+END
+DecodingStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9933/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/DecodingStrategyTest.java
+END
+FileDecoderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileDecoderTestBase.java
+END
+DecoderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9933/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/DecoderTestBase.java
+END
+UnicodeCharsetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/UnicodeCharsetTest.java
+END
+SignatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/9403/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/SignatureTest.java
+END
+ReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9933/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/ReaderTest.java
+END
+IOTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/IOTestBase.java
+END
+FileDecoderDescriptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileDecoderDescriptorTest.java
+END
+FileDecoderFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileDecoderFileTest.java
+END
+FileEncoderStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileEncoderStringTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9403/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/MessagesTest.java
+END
+MemoryEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/MemoryEncoderTest.java
+END
+FileEncoderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileEncoderTestBase.java
+END
+EncoderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/EncoderTestBase.java
+END
+SignatureCharsetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/SignatureCharsetTest.java
+END
+WriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9933/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/WriterTest.java
+END
+SerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9933/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/SerializationTest.java
+END
+FileEncoderDescriptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileEncoderDescriptorTest.java
+END
+FileEncoderFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileEncoderFileTest.java
+END
+FileDecoderStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/FileDecoderStringTest.java
+END
+MemoryDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9433/root/trunk/source/util/src/test/java/org/marketcetera/util/unicode/MemoryDecoderTest.java
+END

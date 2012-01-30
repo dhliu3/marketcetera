@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/16019/root/trunk/source/core/src/test/java/org/marketcetera/event
+END
+MockAggregateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10880/root/trunk/source/core/src/test/java/org/marketcetera/event/MockAggregateEvent.java
+END
+MockEventTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10833/root/trunk/source/core/src/test/java/org/marketcetera/event/MockEventTranslator.java
+END
+BookEntryTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/event/BookEntryTuple.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/9477/root/trunk/source/core/src/test/java/org/marketcetera/event/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10492/root/trunk/source/core/src/test/java/org/marketcetera/event/TestMessages.java
+END
+QuantityTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10833/root/trunk/source/core/src/test/java/org/marketcetera/event/QuantityTuple.java
+END
+LogEventLevelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/event/LogEventLevelTest.java
+END
+MockEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/event/MockEvent.java
+END
+EventTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11022/root/trunk/source/core/src/test/java/org/marketcetera/event/EventTestBase.java
+END

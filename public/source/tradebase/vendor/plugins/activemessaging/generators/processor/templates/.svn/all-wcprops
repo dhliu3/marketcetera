@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates
+END
+messaging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10298/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/messaging.rb
+END
+processor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/10620/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/processor_test.rb
+END
+processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10620/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/processor.rb
+END
+broker.yml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/10298/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/broker.yml
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10620/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/application.rb
+END
+jruby_poller
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/jruby_poller
+END
+poller
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10848/root/trunk/source/tradebase/vendor/plugins/activemessaging/generators/processor/templates/poller
+END

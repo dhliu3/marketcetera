@@ -1,0 +1,14 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 240
+/root/branches/anshul/dotnet/source/orderloader/src/test/java/org/marketcetera/orderloader/MessagesTest.java:10292-10295
+/root/branches/colin/fortum/source/orderloader/src/test/java/org/marketcetera/orderloader/MessagesTest.java:10957-11005
+K 13
+svn:mime-type
+V 10
+text/plain
+END

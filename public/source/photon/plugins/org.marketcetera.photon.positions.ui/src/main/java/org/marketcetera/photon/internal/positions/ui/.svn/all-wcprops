@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui
+END
+PositionsViewPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/PositionsViewPage.java
+END
+PositionsViewTreePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/PositionsViewTreePage.java
+END
+UnavailablePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10534/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/UnavailablePage.java
+END
+PositionsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10919/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/PositionsView.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/Messages.java
+END
+PositionsViewTablePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/PositionsViewTablePage.java
+END
+GroupingContributionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/GroupingContributionItem.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/10510/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui/src/main/java/org/marketcetera/photon/internal/positions/ui/Activator.java
+END

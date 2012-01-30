@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10951/root/trunk/source/client/src/test/java/org/marketcetera/client/jms
+END
+SampleQMessageReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10407/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleQMessageReplyHandler.java
+END
+JMSXMLConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10951/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/JMSXMLConverterTest.java
+END
+JmsManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10590/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/JmsManagerTest.java
+END
+SampleReceiveOnlyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10407/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleReceiveOnlyHandler.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10407/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/MessagesTest.java
+END
+SampleOrderReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10490/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleOrderReplyHandler.java
+END
+SampleBrokerStatusHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10492/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleBrokerStatusHandler.java
+END
+OrderEnvelopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10492/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/OrderEnvelopeTest.java
+END
+SampleEnvelopeReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10492/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleEnvelopeReplyHandler.java
+END
+SampleIntegerReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10407/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleIntegerReplyHandler.java
+END
+SchemaGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10492/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SchemaGen.java
+END
+SampleReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10407/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/SampleReplyHandler.java
+END
+JMSFIXMessageConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10407/root/trunk/source/client/src/test/java/org/marketcetera/client/jms/JMSFIXMessageConverterTest.java
+END

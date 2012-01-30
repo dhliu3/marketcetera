@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir
+END
+dangling_link
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir/dangling_link
+END
+recursive_link
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir/recursive_link
+END
+dir_link
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10914/root/trunk/source/util/src/test/sample_data/file_type/dir/dir_link
+END
+file_link
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir/file_link
+END
+file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir/file.txt
+END

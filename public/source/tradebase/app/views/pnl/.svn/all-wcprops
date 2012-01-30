@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/pnl
+END
+pnl_aggregate.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/pnl/pnl_aggregate.rhtml
+END
+pnl_by_account.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/pnl/pnl_by_account.rhtml
+END
+missing_marks.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/pnl/missing_marks.rhtml
+END
+index.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/pnl/index.rhtml
+END

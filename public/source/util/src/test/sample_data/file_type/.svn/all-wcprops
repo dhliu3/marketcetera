@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type
+END
+dp_indirect_dir_link
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10914/root/trunk/source/util/src/test/sample_data/file_type/dp_indirect_dir_link
+END
+dangling_link
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10836/root/trunk/source/util/src/test/sample_data/file_type/dangling_link
+END
+dp_indirect_file_link
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dp_indirect_file_link
+END
+dp_indirect_dangling_link
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dp_indirect_dangling_link
+END
+recursive_link
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10836/root/trunk/source/util/src/test/sample_data/file_type/recursive_link
+END
+dp_recursive_link
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dp_recursive_link
+END
+dp_direct_dir_link
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10914/root/trunk/source/util/src/test/sample_data/file_type/dp_direct_dir_link
+END
+dp_direct_file_link
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dp_direct_file_link
+END
+dir_link
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5/root/trunk/source/util/src/test/sample_data/file_type/dir_link
+END
+file_link
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10848/root/trunk/source/util/src/test/sample_data/file_type/file_link
+END
+dp_direct_dangling_link
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dp_direct_dangling_link
+END
+file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/1797/root/trunk/source/util/src/test/sample_data/file_type/file.txt
+END

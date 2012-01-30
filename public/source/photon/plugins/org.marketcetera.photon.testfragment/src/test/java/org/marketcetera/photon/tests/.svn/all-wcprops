@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/tests
+END
+PhotonRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/tests/PhotonRunner.java
+END
+PhotonSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/tests/PhotonSuite.java
+END
+PhotonApplicationSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.testfragment/src/test/java/org/marketcetera/photon/tests/PhotonApplicationSuite.java
+END

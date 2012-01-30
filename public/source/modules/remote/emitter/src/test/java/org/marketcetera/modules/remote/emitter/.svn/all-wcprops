@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10885/root/trunk/source/modules/remote/emitter/src/test/java/org/marketcetera/modules/remote/emitter
+END
+EmitterModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/10833/root/trunk/source/modules/remote/emitter/src/test/java/org/marketcetera/modules/remote/emitter/EmitterModuleTest.java
+END
+RemoteDataEmitterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10885/root/trunk/source/modules/remote/emitter/src/test/java/org/marketcetera/modules/remote/emitter/RemoteDataEmitterTest.java
+END
+RemoteEmitterTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/10885/root/trunk/source/modules/remote/emitter/src/test/java/org/marketcetera/modules/remote/emitter/RemoteEmitterTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/10492/root/trunk/source/modules/remote/emitter/src/test/java/org/marketcetera/modules/remote/emitter/MessagesTest.java
+END

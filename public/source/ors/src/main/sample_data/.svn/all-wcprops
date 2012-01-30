@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/10951/root/trunk/source/ors/src/main/sample_data
+END
+create_server_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10950/root/trunk/source/ors/src/main/sample_data/create_server_schema.sql
+END

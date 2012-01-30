@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/10980/root/trunk/source/core/src/main/java/org/marketcetera/module
+END
+ModuleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10710/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleInfo.java
+END
+DataFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10355/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlow.java
+END
+DataFlowRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowRequester.java
+END
+SinkModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10578/root/trunk/source/core/src/main/java/org/marketcetera/module/SinkModuleFactory.java
+END
+StringToTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/StringToTypeConverter.java
+END
+SinkDataListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/SinkDataListener.java
+END
+UnsupportedRequestParameterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/UnsupportedRequestParameterType.java
+END
+RequestID.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/RequestID.java
+END
+ProviderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ProviderInfo.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10331/root/trunk/source/core/src/main/java/org/marketcetera/module/Messages.java
+END
+StringDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/StringDataRequest.java
+END
+ModuleManagerMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10718/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleManagerMXBean.java
+END
+ModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10578/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleFactory.java
+END
+DataFlowTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowTracker.java
+END
+DataFlowID.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10710/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowID.java
+END
+BeanRegistrationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/BeanRegistrationException.java
+END
+DataFlowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowException.java
+END
+ModuleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10980/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10714/root/trunk/source/core/src/main/java/org/marketcetera/module/package-info.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/Module.java
+END
+ModuleInstanceTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleInstanceTracker.java
+END
+ProviderNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ProviderNotFoundException.java
+END
+ModuleConfigurationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleConfigurationProvider.java
+END
+ReceiveDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/module/ReceiveDataException.java
+END
+DataFlowNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowNotFoundException.java
+END
+DataFlowStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowStep.java
+END
+PropertiesConfigurationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/10710/root/trunk/source/core/src/main/java/org/marketcetera/module/PropertiesConfigurationProvider.java
+END
+DataEmitterSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataEmitterSupport.java
+END
+RequestDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/module/RequestDataException.java
+END
+DataEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataEmitter.java
+END
+UnsupportedDataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/UnsupportedDataTypeException.java
+END
+ModuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleException.java
+END
+RefreshListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/RefreshListener.java
+END
+ModuleStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleStateException.java
+END
+SinkModuleMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/SinkModuleMXBean.java
+END
+DisplayName.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DisplayName.java
+END
+SyncCoupler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/SyncCoupler.java
+END
+MXBeanOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/MXBeanOperationException.java
+END
+DataCoupling.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataCoupling.java
+END
+ModuleURN.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10710/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleURN.java
+END
+SinkModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10578/root/trunk/source/core/src/main/java/org/marketcetera/module/SinkModule.java
+END
+DataRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataRequestBase.java
+END
+DataFlowInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowInfo.java
+END
+IllegalRequestParameterValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/IllegalRequestParameterValue.java
+END
+DataFlowSupportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowSupportImpl.java
+END
+ModuleNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleNotFoundException.java
+END
+DataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10578/root/trunk/source/core/src/main/java/org/marketcetera/module/DataRequest.java
+END
+BeanAttributeSetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/BeanAttributeSetException.java
+END
+URNUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/URNUtils.java
+END
+ModuleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/10770/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleState.java
+END
+StopDataFlowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/StopDataFlowException.java
+END
+AbstractDataCoupler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/AbstractDataCoupler.java
+END
+ModuleCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleCreationException.java
+END
+InvalidURNException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/InvalidURNException.java
+END
+ModuleURNXmlAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleURNXmlAdapter.java
+END
+MBeanAttributeSetterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10555/root/trunk/source/core/src/main/java/org/marketcetera/module/MBeanAttributeSetterHelper.java
+END
+ModuleManagerMXBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/ModuleManagerMXBeanImpl.java
+END
+DataReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10280/root/trunk/source/core/src/main/java/org/marketcetera/module/DataReceiver.java
+END
+DataFlowSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10374/root/trunk/source/core/src/main/java/org/marketcetera/module/DataFlowSupport.java
+END

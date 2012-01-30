@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10878/root/trunk/source/core/.externalToolBuilders
+END
+copyTestsToPlugin.launch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/10878/root/trunk/source/core/.externalToolBuilders/copyTestsToPlugin.launch
+END

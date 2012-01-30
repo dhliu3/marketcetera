@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics
+END
+PrintStreamFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics/PrintStreamFactoryTest.java
+END
+ConditionsFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics/ConditionsFactoryTest.java
+END
+PerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics/PerformanceTest.java
+END
+ConfiguratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics/ConfiguratorTest.java
+END
+ThreadedMetricTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics/ThreadedMetricTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10591/root/trunk/source/core/src/test/java/org/marketcetera/metrics/MessagesTest.java
+END
+InfoTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10885/root/trunk/source/core/src/test/java/org/marketcetera/metrics/InfoTests.java
+END

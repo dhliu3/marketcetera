@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/10620/root/trunk/source/tradebase/app/processors
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/10620/root/trunk/source/tradebase/app/processors/application.rb
+END
+record_trade_processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10620/root/trunk/source/tradebase/app/processors/record_trade_processor.rb
+END

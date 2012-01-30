@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate
+END
+016_create_message_logs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/016_create_message_logs.rb
+END
+019_create_event_logs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/019_create_event_logs.rb
+END
+020_create_marks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/020_create_marks.rb
+END
+008_create_dividends.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/008_create_dividends.rb
+END
+004_create_accounts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/004_create_accounts.rb
+END
+018_create_unassigned_account.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/018_create_unassigned_account.rb
+END
+013_create_trades.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/013_create_trades.rb
+END
+007_create_equity_option_series.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/007_create_equity_option_series.rb
+END
+011_create_sub_accounts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/011_create_sub_accounts.rb
+END
+021_create_currency_pairs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/021_create_currency_pairs.rb
+END
+010_create_equity_option_underlyings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/010_create_equity_option_underlyings.rb
+END
+003_create_sub_account_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/003_create_sub_account_types.rb
+END
+022_insert_currency_pairs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/022_insert_currency_pairs.rb
+END
+006_create_equities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/006_create_equities.rb
+END
+002_create_journals.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/002_create_journals.rb
+END
+015_insert_sub_account_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/015_insert_sub_account_types.rb
+END
+024_modify_messages_log.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10298/root/trunk/source/tradebase/db/migrate/024_modify_messages_log.rb
+END
+009_create_equity_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/009_create_equity_options.rb
+END
+001_create_m_symbols.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/001_create_m_symbols.rb
+END
+005_create_currencies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/005_create_currencies.rb
+END
+014_insert_currencies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/014_insert_currencies.rb
+END
+012_create_postings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/012_create_postings.rb
+END
+023_add_forex_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10620/root/trunk/source/tradebase/db/migrate/023_add_forex_support.rb
+END
+025_modify_accounts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10298/root/trunk/source/tradebase/db/migrate/025_modify_accounts.rb
+END

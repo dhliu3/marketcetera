@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except
+END
+I18NRuntimeExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/I18NRuntimeExceptionTest.java
+END
+I18NThrowableTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/I18NThrowableTestBase.java
+END
+I18NInterruptedExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/I18NInterruptedExceptionTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9432/root/trunk/source/util/src/test/java/org/marketcetera/util/except/TestMessages.java
+END
+I18NInterruptedRuntimeExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/I18NInterruptedRuntimeExceptionTest.java
+END
+ExceptUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/ExceptUtilsTest.java
+END
+I18NErrorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/I18NErrorTest.java
+END
+I18NExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9945/root/trunk/source/util/src/test/java/org/marketcetera/util/except/I18NExceptionTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/9477/root/trunk/source/core/src/test/java/org/marketcetera/symbology
+END
+ExchangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/symbology/ExchangeTest.java
+END
+ExchangesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/symbology/ExchangesTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9477/root/trunk/source/core/src/test/java/org/marketcetera/symbology/MessagesTest.java
+END
+PropertiesExchangeMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9456/root/trunk/source/core/src/test/java/org/marketcetera/symbology/PropertiesExchangeMapTest.java
+END

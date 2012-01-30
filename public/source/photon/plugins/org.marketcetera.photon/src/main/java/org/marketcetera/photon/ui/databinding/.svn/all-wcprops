@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding
+END
+FutureObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding/FutureObservable.java
+END
+StatusToImageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding/StatusToImageConverter.java
+END
+CompoundObservableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding/CompoundObservableManager.java
+END
+EquityObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding/EquityObservable.java
+END
+NewOrReplaceOrderObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding/NewOrReplaceOrderObservable.java
+END
+OptionObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon/src/main/java/org/marketcetera/photon/ui/databinding/OptionObservable.java
+END

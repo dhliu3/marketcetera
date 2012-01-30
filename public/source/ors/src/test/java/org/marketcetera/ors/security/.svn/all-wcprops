@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10950/root/trunk/source/ors/src/test/java/org/marketcetera/ors/security
+END
+ORSLoginModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10950/root/trunk/source/ors/src/test/java/org/marketcetera/ors/security/ORSLoginModuleTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10229/root/trunk/source/ors/src/test/java/org/marketcetera/ors/security/MessagesTest.java
+END
+SimpleUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10950/root/trunk/source/ors/src/test/java/org/marketcetera/ors/security/SimpleUserTest.java
+END
+ORSCLITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10507/root/trunk/source/ors/src/test/java/org/marketcetera/ors/security/ORSCLITest.java
+END

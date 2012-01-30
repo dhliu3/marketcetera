@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/10919/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera/photon/internal/positions/ui
+END
+PositionsViewTreePageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/!svn/ver/10919/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera/photon/internal/positions/ui/PositionsViewTreePageTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera/photon/internal/positions/ui/MessagesTest.java
+END
+PositionsViewTablePageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/!svn/ver/10919/root/trunk/source/photon/plugins/org.marketcetera.photon.positions.ui.tests/src/main/java/org/marketcetera/photon/internal/positions/ui/PositionsViewTablePageTest.java
+END

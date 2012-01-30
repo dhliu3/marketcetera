@@ -1,0 +1,17 @@
+K 13
+svn:externals
+V 95
+debug_view_helper http://source.marketcetera.org/root/tags/vendors/debug-view-helper-2784/
+
+
+
+
+
+K 10
+svn:ignore
+V 18
+*~
+#*#
+*$py.class
+
+END

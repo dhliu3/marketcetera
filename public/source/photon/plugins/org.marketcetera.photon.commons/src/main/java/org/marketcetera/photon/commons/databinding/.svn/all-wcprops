@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/databinding
+END
+ITypedObservableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/databinding/ITypedObservableValue.java
+END
+TypedObservableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/databinding/TypedObservableValue.java
+END
+TypedObservableValueDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/databinding/TypedObservableValueDecorator.java
+END
+TypedConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.commons/src/main/java/org/marketcetera/photon/commons/databinding/TypedConverter.java
+END

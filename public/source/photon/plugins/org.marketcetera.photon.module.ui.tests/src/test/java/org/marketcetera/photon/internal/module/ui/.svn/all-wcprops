@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/10643/root/trunk/source/photon/plugins/org.marketcetera.photon.module.ui.tests/src/test/java/org/marketcetera/photon/internal/module/ui
+END
+PreferencesAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/10319/root/trunk/source/photon/plugins/org.marketcetera.photon.module.ui.tests/src/test/java/org/marketcetera/photon/internal/module/ui/PreferencesAdapterTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10319/root/trunk/source/photon/plugins/org.marketcetera.photon.module.ui.tests/src/test/java/org/marketcetera/photon/internal/module/ui/MessagesTest.java
+END
+PropertiesTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/!svn/ver/10296/root/trunk/source/photon/plugins/org.marketcetera.photon.module.ui.tests/src/test/java/org/marketcetera/photon/internal/module/ui/PropertiesTreeTest.java
+END

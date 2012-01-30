@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/15806/root/trunk/tools/scripts
+END
+createScript.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10703/root/trunk/tools/scripts/createScript.pl
+END
+svnConfig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/10830/root/trunk/tools/scripts/svnConfig.pl
+END
+setSvnProperties.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/15806/root/trunk/tools/scripts/setSvnProperties.pl
+END

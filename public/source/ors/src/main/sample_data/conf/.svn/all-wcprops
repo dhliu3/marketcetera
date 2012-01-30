@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/10951/root/trunk/source/ors/src/main/sample_data/conf
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10951/root/trunk/source/ors/src/main/sample_data/conf/default.properties
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10936/root/trunk/source/ors/src/main/sample_data/conf/README.html
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10936/root/trunk/source/ors/src/main/sample_data/conf/server.xml
+END
+cli.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/10264/root/trunk/source/ors/src/main/sample_data/conf/cli.xml
+END
+user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10264/root/trunk/source/ors/src/main/sample_data/conf/user.properties
+END
+properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10264/root/trunk/source/ors/src/main/sample_data/conf/properties.xml
+END

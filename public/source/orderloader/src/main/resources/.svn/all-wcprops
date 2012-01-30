@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/15831/root/trunk/source/orderloader/src/main/resources
+END
+orderloader_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/15831/root/trunk/source/orderloader/src/main/resources/orderloader_messages.properties
+END
+orderloader_messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10227/root/trunk/source/orderloader/src/main/resources/orderloader_messages_fr.properties
+END

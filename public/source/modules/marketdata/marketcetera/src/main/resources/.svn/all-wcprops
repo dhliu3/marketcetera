@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10298/root/trunk/source/modules/marketdata/marketcetera/src/main/resources
+END
+fixdatafeed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/10151/root/trunk/source/modules/marketdata/marketcetera/src/main/resources/fixdatafeed.properties
+END
+marketcetera_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/10151/root/trunk/source/modules/marketdata/marketcetera/src/main/resources/marketcetera_messages.properties
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10848/root/trunk/source/orderloader/src/main/resources/META-INF/services
+END
+org.marketcetera.orderloader.system.InstrumentFromRow
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/10848/root/trunk/source/orderloader/src/main/resources/META-INF/services/org.marketcetera.orderloader.system.InstrumentFromRow
+END

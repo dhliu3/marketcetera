@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/16025/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata
+END
+MarketDataFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/10577/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketDataFeed.java
+END
+LatestTickManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/LatestTickManager.java
+END
+IDataFlowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/10895/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/IDataFlowManager.java
+END
+ITopOfBookManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10495/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/ITopOfBookManager.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/Messages.java
+END
+SharedOptionMarketstatKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/SharedOptionMarketstatKey.java
+END
+IDepthOfBookManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/10534/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/IDepthOfBookManager.java
+END
+ILatestTickManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10495/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/ILatestTickManager.java
+END
+TopOfBookKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/TopOfBookKey.java
+END
+DepthOfBookKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/DepthOfBookKey.java
+END
+InstrumentRequestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/InstrumentRequestAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10620/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/package-info.java
+END
+MarketstatKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketstatKey.java
+END
+SharedOptionMarketstatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/SharedOptionMarketstatManager.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/10892/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/Activator.java
+END
+IMarketDataRequestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/IMarketDataRequestSupport.java
+END
+TopOfBookManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/TopOfBookManager.java
+END
+DepthOfBookManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/DepthOfBookManager.java
+END
+SharedOptionLatestTickKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/SharedOptionLatestTickKey.java
+END
+ISharedOptionMarketstatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/ISharedOptionMarketstatManager.java
+END
+MarketDataReceiverModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10577/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketDataReceiverModule.java
+END
+MarketDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10643/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketDataManager.java
+END
+MarketstatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketstatManager.java
+END
+IMarketDataSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/10490/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/IMarketDataSubscriber.java
+END
+MarketData.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/11022/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketData.java
+END
+LatestTickKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/LatestTickKey.java
+END
+SharedOptionLatestTickManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/SharedOptionLatestTickManager.java
+END
+OptionRequestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/OptionRequestAdapter.java
+END
+MarketDataRequestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketDataRequestSupport.java
+END
+IMarketstatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/10534/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/IMarketstatManager.java
+END
+FutureRequestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/11150/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/FutureRequestAdapter.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/10875/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/Key.java
+END
+MarketDataReceiverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/10577/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/MarketDataReceiverFactory.java
+END
+EquityRequestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10930/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/EquityRequestAdapter.java
+END
+ISharedOptionLatestTickManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/ISharedOptionLatestTickManager.java
+END
+DataFlowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/16025/root/trunk/source/photon/plugins/org.marketcetera.photon.marketdata/src/main/java/org/marketcetera/photon/internal/marketdata/DataFlowManager.java
+END

@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 18
+*~
+#*#
+*$py.class
+
+K 13
+svn:mergeinfo
+V 355
+/root/branches/anshul/dotnet/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus:10292-10295
+/root/branches/colin/fortum/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus:10957-11005
+/root/branches/futures/source/modules/marketdata/bogus/src/test/java/org/marketcetera/marketdata/bogus:10938-10950
+END

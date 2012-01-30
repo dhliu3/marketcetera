@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/currencies
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/currencies/list.rhtml
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/10298/root/trunk/source/tradebase/app/views/currencies/show.rhtml
+END

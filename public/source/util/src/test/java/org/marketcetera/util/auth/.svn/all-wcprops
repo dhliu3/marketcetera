@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10079/root/trunk/source/util/src/test/java/org/marketcetera/util/auth
+END
+StandardAuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10079/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/StandardAuthenticationTest.java
+END
+SetterContextCliTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/9936/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/SetterContextCliTest.java
+END
+AuthenticationSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9936/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/AuthenticationSystemTest.java
+END
+SetterContextTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9936/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/SetterContextTestBase.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9936/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/MessagesTest.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9428/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/TestMessages.java
+END
+HolderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/9355/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/HolderTestBase.java
+END
+SetterContextGenericTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9340/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/SetterContextGenericTest.java
+END
+HolderCharArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/9241/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/HolderCharArrayTest.java
+END
+HolderGenericTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9241/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/HolderGenericTest.java
+END
+SetterContextConsoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/9936/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/SetterContextConsoleTest.java
+END
+SetterContextSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10079/root/trunk/source/util/src/test/java/org/marketcetera/util/auth/SetterContextSpringTest.java
+END

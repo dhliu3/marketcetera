@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/publisher
+END
+PublisherEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/10591/root/trunk/source/core/src/main/java/org/marketcetera/core/publisher/PublisherEngine.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/core/publisher/package-info.java
+END
+IPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/publisher/IPublisher.java
+END
+ISubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/core/publisher/ISubscriber.java
+END

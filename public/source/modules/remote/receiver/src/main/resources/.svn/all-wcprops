@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/10710/root/trunk/source/modules/remote/receiver/src/main/resources
+END
+modules_remote_receiver_messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10710/root/trunk/source/modules/remote/receiver/src/main/resources/modules_remote_receiver_messages.properties
+END
+remoting_server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10492/root/trunk/source/modules/remote/receiver/src/main/resources/remoting_server.xml
+END

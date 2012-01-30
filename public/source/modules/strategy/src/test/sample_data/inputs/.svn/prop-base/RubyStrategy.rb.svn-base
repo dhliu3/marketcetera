@@ -1,0 +1,15 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 336
+/root/branches/anshul/dotnet/source/modules/strategy/src/test/sample_data/inputs/RubyStrategy.rb:10292-10295
+/root/branches/anshul/instrument/source/modules/strategy/src/test/sample_data/inputs/RubyStrategy.rb:10805-10807
+/root/branches/will/strategy/source/modules/strategy/src/test/sample_data/inputs/RubyStrategy.rb:10018,10021-10026
+K 13
+svn:mime-type
+V 28
+text/x-c++; charset=us-ascii
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/10655/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification
+END
+DesktopNotificationControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10628/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification/DesktopNotificationControllerTest.java
+END
+DesktopNotificationPopupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10643/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification/DesktopNotificationPopupTest.java
+END
+AbstractNotificationJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10056/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification/AbstractNotificationJobTest.java
+END
+NotificationPluginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/!svn/ver/10628/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification/NotificationPluginTest.java
+END
+NotificationConsoleControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10643/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification/NotificationConsoleControllerTest.java
+END
+PopupJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/9860/root/trunk/source/photon/plugins/org.marketcetera.photon.notification.tests/src/test/java/org/marketcetera/photon/notification/PopupJobTest.java
+END

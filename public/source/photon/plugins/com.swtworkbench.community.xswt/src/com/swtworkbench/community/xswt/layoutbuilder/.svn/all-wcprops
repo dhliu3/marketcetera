@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder
+END
+SWTLayoutBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/SWTLayoutBuilder.java
+END
+LayoutBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/LayoutBuilder.java
+END
+ObjectStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/ObjectStub.java
+END
+SWTSourceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/SWTSourceBuilder.java
+END
+ReflectionSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/ReflectionSupport.java
+END
+ILayoutBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/ILayoutBuilder.java
+END
+FormToolkitLayoutBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/7186/root/trunk/source/photon/plugins/com.swtworkbench.community.xswt/src/com/swtworkbench/community/xswt/layoutbuilder/FormToolkitLayoutBuilder.java
+END

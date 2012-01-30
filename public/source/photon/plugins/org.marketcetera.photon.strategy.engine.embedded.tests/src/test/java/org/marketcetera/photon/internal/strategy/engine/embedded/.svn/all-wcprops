@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/embedded
+END
+EmbeddedStrategyEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/embedded/EmbeddedStrategyEngineTest.java
+END
+PersistenceServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/embedded/PersistenceServiceTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/embedded/MessagesTest.java
+END
+EmbeddedConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/embedded/EmbeddedConnectionTest.java
+END
+EmbeddedConnectionPersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/!svn/ver/10890/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.embedded.tests/src/test/java/org/marketcetera/photon/internal/strategy/engine/embedded/EmbeddedConnectionPersistenceTest.java
+END

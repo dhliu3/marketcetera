@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.workbench.tests/src/test/java/org/marketcetera/photon/commons/ui/workbench
+END
+ProgressUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.workbench.tests/src/test/java/org/marketcetera/photon/commons/ui/workbench/ProgressUtilsTest.java
+END
+ChooseColumnsMenuTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/!svn/ver/10713/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.workbench.tests/src/test/java/org/marketcetera/photon/commons/ui/workbench/ChooseColumnsMenuTest.java
+END
+DataBindingPropertyPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.workbench.tests/src/test/java/org/marketcetera/photon/commons/ui/workbench/DataBindingPropertyPageTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.workbench.tests/src/test/java/org/marketcetera/photon/commons/ui/workbench/MessagesTest.java
+END
+SafeHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.commons.ui.workbench.tests/src/test/java/org/marketcetera/photon/commons/ui/workbench/SafeHandlerTest.java
+END

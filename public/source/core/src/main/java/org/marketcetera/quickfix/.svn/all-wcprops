@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/16053/root/trunk/source/core/src/main/java/org/marketcetera/quickfix
+END
+FIXDataDictionaryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9972/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXDataDictionaryManager.java
+END
+FIXFieldConverterNotAvailable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXFieldConverterNotAvailable.java
+END
+FIXDataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10875/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXDataDictionary.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10176/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/Messages.java
+END
+CurrentFIXDataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10229/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/CurrentFIXDataDictionary.java
+END
+EventLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/EventLogFactory.java
+END
+UnsupportedMessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10833/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/UnsupportedMessageException.java
+END
+CustomField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/9513/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/CustomField.java
+END
+FIXValueExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/10875/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXValueExtractor.java
+END
+FieldNameMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FieldNameMap.java
+END
+AbstractMessageTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10833/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/AbstractMessageTranslator.java
+END
+FIXMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11022/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXMessageFactory.java
+END
+EventLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/16053/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/EventLog.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10620/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/package-info.java
+END
+QuickFIXSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/QuickFIXSender.java
+END
+QuickFIXSessionAdapterStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/QuickFIXSessionAdapterStub.java
+END
+QuickFIXSessionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9456/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/QuickFIXSessionAdapter.java
+END
+SystemFIXMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/16003/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/SystemFIXMessageFactory.java
+END
+FIXMessageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/10883/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXMessageUtil.java
+END
+FIXVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/10104/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXVersion.java
+END
+FIXMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10934/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/FIXMessageSender.java
+END
+MarketceteraFIXException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9972/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/MarketceteraFIXException.java
+END
+IQuickFIXSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1797/root/trunk/source/core/src/main/java/org/marketcetera/quickfix/IQuickFIXSender.java
+END

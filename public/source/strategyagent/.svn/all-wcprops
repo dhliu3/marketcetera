@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/15831/root/trunk/source/strategyagent
+END
+StrategyAgent.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/10848/root/trunk/source/strategyagent/StrategyAgent.launch
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/15806/root/trunk/source/strategyagent/pom.xml
+END
+assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10594/root/trunk/source/strategyagent/assembly.xml
+END

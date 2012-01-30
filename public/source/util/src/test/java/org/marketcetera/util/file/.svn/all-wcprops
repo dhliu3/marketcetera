@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10915/root/trunk/source/util/src/test/java/org/marketcetera/util/file
+END
+CopyBytesUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9938/root/trunk/source/util/src/test/java/org/marketcetera/util/file/CopyBytesUtilsTest.java
+END
+ReaderWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9382/root/trunk/source/util/src/test/java/org/marketcetera/util/file/ReaderWrapperTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/9403/root/trunk/source/util/src/test/java/org/marketcetera/util/file/MessagesTest.java
+END
+WrapperTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9382/root/trunk/source/util/src/test/java/org/marketcetera/util/file/WrapperTestBase.java
+END
+InputStreamWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/9209/root/trunk/source/util/src/test/java/org/marketcetera/util/file/InputStreamWrapperTest.java
+END
+CopyCharsUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/9938/root/trunk/source/util/src/test/java/org/marketcetera/util/file/CopyCharsUtilsTest.java
+END
+WriterWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9382/root/trunk/source/util/src/test/java/org/marketcetera/util/file/WriterWrapperTest.java
+END
+OutputStreamWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/9209/root/trunk/source/util/src/test/java/org/marketcetera/util/file/OutputStreamWrapperTest.java
+END
+FileWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9382/root/trunk/source/util/src/test/java/org/marketcetera/util/file/FileWrapperTest.java
+END
+FileTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10915/root/trunk/source/util/src/test/java/org/marketcetera/util/file/FileTypeTest.java
+END
+SmartLinksDirectoryWalkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/9209/root/trunk/source/util/src/test/java/org/marketcetera/util/file/SmartLinksDirectoryWalkerTest.java
+END
+CloseableRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/9460/root/trunk/source/util/src/test/java/org/marketcetera/util/file/CloseableRegistryTest.java
+END
+CopyCharsUnicodeUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/9938/root/trunk/source/util/src/test/java/org/marketcetera/util/file/CopyCharsUnicodeUtilsTest.java
+END
+DeleterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/9938/root/trunk/source/util/src/test/java/org/marketcetera/util/file/DeleterTest.java
+END
+CopyUtilsTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/9385/root/trunk/source/util/src/test/java/org/marketcetera/util/file/CopyUtilsTestBase.java
+END

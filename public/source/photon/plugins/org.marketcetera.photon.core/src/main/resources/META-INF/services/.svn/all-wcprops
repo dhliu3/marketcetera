@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/resources/META-INF/services
+END
+org.marketcetera.photon.core.InstrumentPrettyPrinter
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.core/src/main/resources/META-INF/services/org.marketcetera.photon.core.InstrumentPrettyPrinter
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/16019/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy
+END
+JavaLanguageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10942/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/JavaLanguageTest.java
+END
+RubyLanguageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10847/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/RubyLanguageTest.java
+END
+AbstractRunningStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/16019/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/AbstractRunningStrategyTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/10229/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/MessagesTest.java
+END
+StrategyModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/16001/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/StrategyModuleTest.java
+END
+StrategyTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/16019/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/StrategyTestBase.java
+END
+LanguageTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/16001/root/trunk/source/modules/strategy/src/test/java/org/marketcetera/strategy/LanguageTestBase.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10298/root/trunk/source/modules/strategy/src/main/resources/META-INF/services
+END
+org.marketcetera.module.ModuleFactory
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/10298/root/trunk/source/modules/strategy/src/main/resources/META-INF/services/org.marketcetera.module.ModuleFactory
+END

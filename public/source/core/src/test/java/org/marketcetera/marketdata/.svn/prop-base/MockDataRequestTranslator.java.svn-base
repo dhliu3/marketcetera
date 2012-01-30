@@ -1,0 +1,14 @@
+K 12
+svn:keywords
+V 11
+Id Revision
+K 13
+svn:mergeinfo
+V 245
+/root/branches/anshul/dotnet/source/core/src/test/java/org/marketcetera/marketdata/MockDataRequestTranslator.java:10292-10295
+/root/branches/futures/source/core/src/test/java/org/marketcetera/marketdata/MockDataRequestTranslator.java:10938-10950
+K 13
+svn:mime-type
+V 10
+text/plain
+END

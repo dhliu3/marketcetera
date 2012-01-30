@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10885/root/trunk/source/modules/misc/src/test/java/org/marketcetera/modules/async
+END
+AsyncModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10885/root/trunk/source/modules/misc/src/test/java/org/marketcetera/modules/async/AsyncModuleTest.java
+END
+BlockingReceiverModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/10885/root/trunk/source/modules/misc/src/test/java/org/marketcetera/modules/async/BlockingReceiverModule.java
+END
+BlockingModuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/10885/root/trunk/source/modules/misc/src/test/java/org/marketcetera/modules/async/BlockingModuleFactory.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/10885/root/trunk/source/modules/misc/src/test/java/org/marketcetera/modules/async/MessagesTest.java
+END

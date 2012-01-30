@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers
+END
+RestartHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/RestartHandler.java
+END
+StopHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StopHandler.java
+END
+StartAllHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StartAllHandler.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/Messages.java
+END
+DeployHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/DeployHandler.java
+END
+StartHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StartHandler.java
+END
+RefreshHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/RefreshHandler.java
+END
+StopAllHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/StopAllHandler.java
+END
+UndeployHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.strategy.engine.ui.workbench/src/main/java/org/marketcetera/photon/internal/strategy/engine/ui/workbench/handlers/UndeployHandler.java
+END

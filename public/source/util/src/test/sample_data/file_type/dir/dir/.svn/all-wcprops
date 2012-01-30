@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir/dir
+END
+dir
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10918/root/trunk/source/util/src/test/sample_data/file_type/dir/dir/dir
+END

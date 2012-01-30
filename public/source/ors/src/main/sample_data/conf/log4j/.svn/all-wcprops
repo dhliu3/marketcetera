@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/10666/root/trunk/source/ors/src/main/sample_data/conf/log4j
+END
+server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/10666/root/trunk/source/ors/src/main/sample_data/conf/log4j/server.properties
+END
+cli.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/10264/root/trunk/source/ors/src/main/sample_data/conf/log4j/cli.properties
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/10620/root/trunk/source/tradebase/test/integration
+END
+complex_positions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/10298/root/trunk/source/tradebase/test/integration/complex_positions_test.rb
+END
+create_trade_with_dangling_symbol_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10620/root/trunk/source/tradebase/test/integration/create_trade_with_dangling_symbol_test.rb
+END

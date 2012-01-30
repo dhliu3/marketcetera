@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.core.tests/src/test/java/org/marketcetera/photon/core
+END
+InstrumentPrettyPrinterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/10886/root/trunk/source/photon/plugins/org.marketcetera.photon.core.tests/src/test/java/org/marketcetera/photon/core/InstrumentPrettyPrinterTest.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core.tests/src/test/java/org/marketcetera/photon/core/MessagesTest.java
+END
+LogoutServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core.tests/src/test/java/org/marketcetera/photon/core/LogoutServiceTest.java
+END
+CredentialsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/10885/root/trunk/source/photon/plugins/org.marketcetera.photon.core.tests/src/test/java/org/marketcetera/photon/core/CredentialsTest.java
+END

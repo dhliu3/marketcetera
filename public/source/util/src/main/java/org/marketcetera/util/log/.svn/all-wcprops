@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10850/root/trunk/source/util/src/main/java/org/marketcetera/util/log
+END
+I18NMessageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/10603/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessageProvider.java
+END
+LogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/LogUtils.java
+END
+I18NBoundMessageBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessageBase.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/10603/root/trunk/source/util/src/main/java/org/marketcetera/util/log/Messages.java
+END
+I18NBoundMessageNP.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessageNP.java
+END
+I18NBoundMessage0P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage0P.java
+END
+I18NBoundMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage.java
+END
+I18NBoundMessage1P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage1P.java
+END
+I18NBoundMessage2P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage2P.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10850/root/trunk/source/util/src/main/java/org/marketcetera/util/log/package.html
+END
+I18NBoundMessage3P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage3P.java
+END
+I18NBoundMessage4P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage4P.java
+END
+I18NLoggerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NLoggerProxy.java
+END
+I18NBoundMessage5P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage5P.java
+END
+I18NBoundMessage6P.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NBoundMessage6P.java
+END
+I18NMessageNP.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessageNP.java
+END
+I18NMessage0P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage0P.java
+END
+I18NMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage.java
+END
+SLF4JLoggerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/10501/root/trunk/source/util/src/main/java/org/marketcetera/util/log/SLF4JLoggerProxy.java
+END
+I18NMessage1P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage1P.java
+END
+I18NMessage2P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage2P.java
+END
+I18NMessage3P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage3P.java
+END
+I18NMessage4P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage4P.java
+END
+I18NMessage5P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage5P.java
+END
+I18NMessage6P.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/I18NMessage6P.java
+END
+ActiveLocale.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/10381/root/trunk/source/util/src/main/java/org/marketcetera/util/log/ActiveLocale.java
+END
